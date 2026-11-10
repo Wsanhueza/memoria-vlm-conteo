@@ -1,0 +1,51 @@
+imagen,categoria,ground_truth,bucket,pred_low,pred_mid,pred_high,prediccion,error_abs,parse_fail,timeout,clase_usada
+3096.jpg,bread rolls,8,8-15,4,2,0,4,4,False,False,bread roll
+831.jpg,bottle caps,117,68-907,0,0,0,0,117,False,False,bottle cap
+5648.jpg,cotton balls,61,29-67,0,0,0,0,61,False,False,cotton ball
+7215.jpg,cups,405,68-907,0,0,0,0,405,False,False,cup
+2428.jpg,cups,26,16-28,11,8,5,11,15,False,False,cup
+7371.jpg,chairs,136,68-907,2,0,0,2,134,False,False,chair
+2008.jpg,sunglasses,42,29-67,1,0,0,1,41,False,False,sunglasses
+2327.jpg,bricks,50,29-67,0,0,0,0,50,False,False,brick
+7207.jpg,cups,30,29-67,13,7,0,13,17,False,False,cup
+5479.jpg,beads,16,16-28,0,0,0,0,16,False,False,bead
+6014.jpg,cupcake tray,12,8-15,0,0,0,0,12,False,False,cupcake tray
+788.jpg,cups,12,8-15,10,9,4,10,2,False,False,cup
+2326.jpg,bricks,240,68-907,0,0,0,0,240,False,False,brick
+5732.jpg,bread rolls,12,8-15,7,0,0,7,5,False,False,bread roll
+5399.jpg,macarons,12,8-15,0,0,0,0,12,False,False,macaron
+3852.jpg,stairs,15,8-15,0,0,0,0,15,False,False,stair
+4022.jpg,beads,114,68-907,0,0,0,0,114,False,False,bead
+7551.jpg,cars,71,68-907,6,2,1,6,65,False,False,car
+6547.jpg,sunglasses,72,68-907,0,0,0,0,72,False,False,sunglasses
+6988.jpg,pills,24,16-28,0,0,0,0,24,False,False,pill
+5847.jpg,strawberries,13,8-15,0,0,0,0,13,False,False,strawberrie
+2442.jpg,cups,18,16-28,8,7,2,8,10,False,False,cup
+3974.jpg,candles,24,16-28,0,0,0,0,24,False,False,candle
+7612.jpg,oranges,31,29-67,0,0,0,0,31,False,False,orange
+7538.jpg,apples,41,29-67,32,32,25,32,9,False,False,apple
+2458.jpg,windows,12,8-15,0,0,0,0,12,False,False,window
+7352.jpg,roof tiles,352,68-907,0,0,0,0,352,False,False,roof tile
+7694.jpg,comic books,60,29-67,0,0,0,0,60,False,False,comic book
+7022.jpg,cups,51,29-67,6,2,1,6,45,False,False,cup
+4312.jpg,clams,12,8-15,0,0,0,0,12,False,False,clam
+4132.jpg,mosaic tiles,36,29-67,0,0,0,0,36,False,False,mosaic tile
+271.jpg,oysters,9,8-15,0,0,0,0,9,False,False,oyster
+7221.jpg,sunglasses,60,29-67,0,0,0,0,60,False,False,sunglasses
+4234.jpg,cupcake tray,12,8-15,1,0,0,1,11,False,False,cupcake tray
+4250.jpg,cupcake tray,24,16-28,0,0,0,0,24,False,False,cupcake tray
+4780.jpg,balls,9,8-15,5,3,2,5,4,False,False,ball
+7545.jpg,chairs,106,68-907,14,0,0,14,92,False,False,chair
+5921.jpg,eggs,30,29-67,2,0,0,2,28,False,False,egg
+6393.jpg,beads,18,16-28,0,0,0,0,18,False,False,bead
+5746.jpg,polka dots,100,68-907,0,0,0,0,100,False,False,polka dot
+3712.jpg,candles,8,8-15,0,0,0,0,8,False,False,candle
+2430.jpg,cups,28,16-28,17,11,3,17,11,False,False,cup
+4098.jpg,bullets,17,16-28,0,0,0,0,17,False,False,bullet
+3982.jpg,screws,100,68-907,0,0,0,0,100,False,False,screw
+3399.jpg,bread rolls,24,16-28,5,2,0,5,19,False,False,bread roll
+4268.jpg,cupcake tray,8,8-15,0,0,0,0,8,False,False,cupcake tray
+6323.jpg,roof tiles,125,68-907,0,0,0,0,125,False,False,roof tile
+7536.jpg,nail polish,24,16-28,0,0,0,0,24,False,False,nail polish
+5026.jpg,bread rolls,36,29-67,0,0,0,0,36,False,False,bread roll
+2038.jpg,sunglasses,198,68-907,0,0,0,0,198,False,False,sunglasses

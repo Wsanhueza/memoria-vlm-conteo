@@ -1,0 +1,8 @@
+# archivos excluidos del repositorio
+dataset/
+pruebas.zip
+_tmp_claude/
+memoria, pressentaciones de avance, bibliografia y otros/
+.ipynb_checkpoints/
+__pycache__/
+~$*

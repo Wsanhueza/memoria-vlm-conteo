@@ -1,0 +1,24 @@
+BENCHMARK: OmniSpatial
+MODELO: google/paligemma2-3b-mix-448
+FECHA: 2026-09-13T00:34:32.997136
+TRACKS: ['Geometric_Reasoning', 'Motion_Analysis', 'Egocentric', 'Allocentric']
+N_SAMPLE_PER_TRACK: 100
+SEMILLA: 42
+--------------------------------------------------
+TIMEOUT_RATE: 0.0000
+PARSE_FAIL_RATE: 0.0000
+ACCURACY_GLOBAL: 0.4225
+TIEMPO_MEDIO_SEG: 2.8077
+TIEMPO_STD_SEG: 0.1463
+VRAM_PICO_MB: 6094.35
+RAM_PICO_MB: 2127.19
+--------------------------------------------------
+DESGLOSE_POR_TRACK
+  Geometric_Reasoning: n_val=100 n_total=100 accuracy=0.2500 baseline_azar=0.2700
+  Motion_Analysis: n_val=100 n_total=100 accuracy=0.4500 baseline_azar=0.3100
+  Egocentric: n_val=100 n_total=100 accuracy=0.5800 baseline_azar=0.3600
+  Allocentric: n_val=100 n_total=100 accuracy=0.4100 baseline_azar=0.2800
+--------------------------------------------------
+GEOMETRIC_REASONING_DETALLE
+  sin_opts: n=86 accuracy=0.2558
+  con_opts: n=14 accuracy=0.2143

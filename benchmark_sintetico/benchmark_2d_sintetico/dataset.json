@@ -1,0 +1,722 @@
+[
+    {
+        "image": "escena_0000.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0000.png",
+        "question": "How many squares are there in the image?",
+        "answer": "30",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0000.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "11",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0000.png",
+        "question": "How many green diamonds are there in the image?",
+        "answer": "4",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0001.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0001.png",
+        "question": "How many squares are there in the image?",
+        "answer": "33",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0001.png",
+        "question": "How many blue shapes are there in the image?",
+        "answer": "15",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0001.png",
+        "question": "How many red diamonds are there in the image?",
+        "answer": "5",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0002.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0002.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "30",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0002.png",
+        "question": "How many red shapes are there in the image?",
+        "answer": "18",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0002.png",
+        "question": "How many blue squares are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0003.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0003.png",
+        "question": "How many circles are there in the image?",
+        "answer": "25",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0003.png",
+        "question": "How many green shapes are there in the image?",
+        "answer": "10",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0003.png",
+        "question": "How many purple triangles are there in the image?",
+        "answer": "4",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0004.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0004.png",
+        "question": "How many circles are there in the image?",
+        "answer": "27",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0004.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "10",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0004.png",
+        "question": "How many light blue circles are there in the image?",
+        "answer": "1",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0005.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0005.png",
+        "question": "How many squares are there in the image?",
+        "answer": "27",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0005.png",
+        "question": "How many red shapes are there in the image?",
+        "answer": "11",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0005.png",
+        "question": "How many green circles are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0006.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0006.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "25",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0006.png",
+        "question": "How many light blue shapes are there in the image?",
+        "answer": "10",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0006.png",
+        "question": "How many light blue squares are there in the image?",
+        "answer": "6",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0007.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0007.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "19",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0007.png",
+        "question": "How many blue shapes are there in the image?",
+        "answer": "12",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0007.png",
+        "question": "How many orange triangles are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0008.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0008.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "21",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0008.png",
+        "question": "How many light blue shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0008.png",
+        "question": "How many yellow diamonds are there in the image?",
+        "answer": "1",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0009.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0009.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "22",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0009.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0009.png",
+        "question": "How many purple diamonds are there in the image?",
+        "answer": "1",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0010.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0010.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "25",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0010.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "10",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0010.png",
+        "question": "How many purple diamonds are there in the image?",
+        "answer": "5",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0011.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0011.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "30",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0011.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "12",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0011.png",
+        "question": "How many purple circles are there in the image?",
+        "answer": "6",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0012.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0012.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "31",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0012.png",
+        "question": "How many pink shapes are there in the image?",
+        "answer": "12",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0012.png",
+        "question": "How many red triangles are there in the image?",
+        "answer": "2",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0013.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0013.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "30",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0013.png",
+        "question": "How many blue shapes are there in the image?",
+        "answer": "12",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0013.png",
+        "question": "How many pink circles are there in the image?",
+        "answer": "6",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0014.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0014.png",
+        "question": "How many squares are there in the image?",
+        "answer": "26",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0014.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "12",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0014.png",
+        "question": "How many red circles are there in the image?",
+        "answer": "5",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0015.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0015.png",
+        "question": "How many squares are there in the image?",
+        "answer": "24",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0015.png",
+        "question": "How many red shapes are there in the image?",
+        "answer": "9",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0015.png",
+        "question": "How many green triangles are there in the image?",
+        "answer": "4",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0016.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0016.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0016.png",
+        "question": "How many blue shapes are there in the image?",
+        "answer": "9",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0016.png",
+        "question": "How many pink diamonds are there in the image?",
+        "answer": "2",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0017.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0017.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0017.png",
+        "question": "How many yellow shapes are there in the image?",
+        "answer": "11",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0017.png",
+        "question": "How many light blue triangles are there in the image?",
+        "answer": "1",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0018.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0018.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "20",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0018.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "10",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0018.png",
+        "question": "How many yellow diamonds are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0019.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0019.png",
+        "question": "How many squares are there in the image?",
+        "answer": "18",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0019.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "11",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0019.png",
+        "question": "How many light blue diamonds are there in the image?",
+        "answer": "4",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0020.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0020.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "19",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0020.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "16",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0020.png",
+        "question": "How many purple circles are there in the image?",
+        "answer": "5",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0021.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0021.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "24",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0021.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0021.png",
+        "question": "How many purple triangles are there in the image?",
+        "answer": "0",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0022.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0022.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0022.png",
+        "question": "How many orange shapes are there in the image?",
+        "answer": "6",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0022.png",
+        "question": "How many purple circles are there in the image?",
+        "answer": "2",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0023.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0023.png",
+        "question": "How many triangles are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0023.png",
+        "question": "How many green shapes are there in the image?",
+        "answer": "16",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0023.png",
+        "question": "How many pink circles are there in the image?",
+        "answer": "4",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0024.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0024.png",
+        "question": "How many squares are there in the image?",
+        "answer": "25",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0024.png",
+        "question": "How many green shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0024.png",
+        "question": "How many purple diamonds are there in the image?",
+        "answer": "0",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0025.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0025.png",
+        "question": "How many circles are there in the image?",
+        "answer": "27",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0025.png",
+        "question": "How many pink shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0025.png",
+        "question": "How many orange squares are there in the image?",
+        "answer": "6",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0026.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0026.png",
+        "question": "How many squares are there in the image?",
+        "answer": "24",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0026.png",
+        "question": "How many pink shapes are there in the image?",
+        "answer": "13",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0026.png",
+        "question": "How many purple triangles are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0027.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0027.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0027.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "16",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0027.png",
+        "question": "How many purple circles are there in the image?",
+        "answer": "6",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0028.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0028.png",
+        "question": "How many diamonds are there in the image?",
+        "answer": "23",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0028.png",
+        "question": "How many light blue shapes are there in the image?",
+        "answer": "14",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0028.png",
+        "question": "How many orange triangles are there in the image?",
+        "answer": "2",
+        "type": "conteo_combinado"
+    },
+    {
+        "image": "escena_0029.png",
+        "question": "How many shapes are there in total in the image?",
+        "answer": "100",
+        "type": "conteo_general"
+    },
+    {
+        "image": "escena_0029.png",
+        "question": "How many squares are there in the image?",
+        "answer": "20",
+        "type": "conteo_forma"
+    },
+    {
+        "image": "escena_0029.png",
+        "question": "How many purple shapes are there in the image?",
+        "answer": "15",
+        "type": "conteo_color"
+    },
+    {
+        "image": "escena_0029.png",
+        "question": "How many light blue circles are there in the image?",
+        "answer": "3",
+        "type": "conteo_combinado"
+    }
+]

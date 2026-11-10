@@ -1,0 +1,301 @@
+question_id,pregunta,ground_truth,issimple,data_source,respuesta_cruda,prediccion,parse_fail,timeout,error_abs,acierto_exacto,tiempo_seg,imagen
+923943482936,How many zebras are in the center of this image?,2,False,amt,1,1.0,False,False,1.0,False,3.7994508743286133,VG_100K_2/2394348.jpg
+9238763114668,How many people are playing tennis on the snow?,0,False,amt,0,0.0,False,False,0.0,True,2.877086639404297,VG_100K_2/2387631.jpg
+30159931,How many paper sacks are there?,3,True,imported_genome,2,2.0,False,False,1.0,False,2.876089572906494,VG_100K/2317046.jpg
+9236719017427,How many people are cooking food near the window?,0,False,amt,0,0.0,False,False,0.0,True,2.8873345851898193,VG_100K/2367190.jpg
+30106327,How many horses are in the picture?,2,True,imported_genome,Two,2.0,False,False,0.0,True,2.9176740646362305,VG_100K_2/2404931.jpg
+30123625,How many umbrellas are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,2.9433305263519287,VG_100K_2/2378056.jpg
+9234397410464,How many people are sitting on the top of the boat?,0,False,amt,1,1.0,False,False,1.0,False,1.2320606708526611,VG_100K/2343974.jpg
+900010173358,How many pictures on the wall are displayed in landscape setting as opposed to portait?,2,False,amt,There are three pictures on the wall that are displayed in landscape setting.,3.0,False,False,1.0,False,3.341937780380249,VG_100K_2/1017.jpg
+30111702,How many people are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,2.9433670043945312,VG_100K_2/2396719.jpg
+30157773,How many zebras are pictured?,5,True,imported_genome,3,3.0,False,False,2.0,False,2.959780693054199,VG_100K/2320895.jpg
+9238728215761,How many people are driving motors?,0,False,amt,2,2.0,False,False,2.0,False,2.9846560955047607,VG_100K_2/2387282.jpg
+30104417,How many motorcycles are visible?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.0967798233032227,VG_100K_2/2405957.jpg
+9236669611143,How many birds are flying?,1,False,amt,1,1.0,False,False,0.0,True,2.9982047080993652,VG_100K/2366696.jpg
+924028954624,How many person wear spects in the image?,1,False,amt,3,3.0,False,False,2.0,False,0.47963881492614746,VG_100K_2/2402895.jpg
+9233619212798,How many people are playing football?,0,False,amt,0,0.0,False,False,0.0,True,3.044727087020874,VG_100K/2336192.jpg
+923727317353,How many people are riding in boats?,7,False,amt,Two,2.0,False,False,5.0,False,3.0394582748413086,VG_100K/2372731.jpg
+923460975844,How many people are sleeping on the ground?,0,False,amt,0,0.0,False,False,0.0,True,3.0608582496643066,VG_100K/2346097.jpg
+30109314,How many tusks can be seen in the picture?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.077816963195801,VG_100K_2/2400387.jpg
+923837422238,How many cows are laying down?,2,False,amt,1,1.0,False,False,1.0,False,3.110870838165283,VG_100K_2/2383742.jpg
+30158790,How many streets are there?,1,True,imported_genome,0,0.0,False,False,1.0,False,3.0947635173797607,VG_100K/2318940.jpg
+30165238,How many vases are in the picture?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.134308099746704,VG_100K_2/2411850.jpg
+915921212181,How many signs are orange and red?,1,False,amt,2,2.0,False,False,1.0,False,3.1783928871154785,VG_100K/1592121.jpg
+30164762,How many jets are shown?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.2177655696868896,VG_100K_2/2412152.jpg
+9236840117311,How many baby elephants are there?,1,False,amt,1,1.0,False,False,0.0,True,3.1830649375915527,VG_100K/2368401.jpg
+30106510,How many cars are on the train?,4,True,imported_genome,4,4.0,False,False,0.0,True,3.2252066135406494,VG_100K_2/2404791.jpg
+9235966714822,How many figures are ringing a bell?,1,False,amt,Three,3.0,False,False,2.0,False,3.2429895401000977,VG_100K/2359667.jpg
+30117946,How many computers are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.270075559616089,VG_100K_2/2387021.jpg
+923211541679,How many baby elephants are in the picture?,1,False,amt,1,1.0,False,False,0.0,True,1.361562967300415,VG_100K/2321154.jpg
+92315413220,How many stripes are on the players shirt?,6,False,amt,Four,4.0,False,False,2.0,False,3.3199946880340576,VG_100K/2315413.jpg
+923489743981,How many elephants are laying down?,0,False,amt,0,0.0,False,False,0.0,True,3.3903164863586426,VG_100K/2348974.jpg
+30149016,How many objects are in this picture?,9,True,imported_genome,4,4.0,False,False,5.0,False,0.5038290023803711,VG_100K/2335549.jpg
+923260973410,How many people in the image are wearing a blue shirt?,1,False,amt,1,1.0,False,False,0.0,True,3.3953139781951904,VG_100K/2326097.jpg
+30146681,How many cars are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.403815746307373,VG_100K/2339404.jpg
+9235535816086,How many yellow buses are there?,2,False,amt,2,2.0,False,False,0.0,True,3.4369056224823,VG_100K/2355358.jpg
+9233960410966,How many giraffes are to the left of the center pole?,2,False,amt,4,4.0,False,False,2.0,False,3.4927518367767334,VG_100K/2339604.jpg
+9234285318213,How many people are sitting on the ground?,0,False,amt,1,1.0,False,False,1.0,False,3.5156877040863037,VG_100K/2342853.jpg
+30118581,How many tails do you see in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.586716413497925,VG_100K_2/2386059.jpg
+30098901,How many cars are on the street?,1,True,imported_genome,0,0.0,False,False,1.0,False,3.6489856243133545,VG_100K_2/2408885.jpg
+9241568914813,How many lemon slices are almost perfectly parallel to each other?,2,False,amt,2,2.0,False,False,0.0,True,0.5308983325958252,VG_100K_2/2415689.jpg
+923633337071,How many horses are running in the competition?,1,False,amt,0,0.0,False,False,1.0,False,3.6472525596618652,VG_100K/2363333.jpg
+30094511,How many people are in the photograph?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.5271022319793701,VG_100K_2/2412929.jpg
+9241198021024,How many people are wearing a red hat?,1,False,amt,1,1.0,False,False,0.0,True,3.6233701705932617,VG_100K_2/2411980.jpg
+30116628,How many beds are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.57509708404541,VG_100K_2/2389057.jpg
+9240560418041,How many kids are wearing a white shirt?,1,False,amt,1,1.0,False,False,0.0,True,3.4998342990875244,VG_100K_2/2405604.jpg
+30152143,How many people are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.45314884185791,VG_100K/2330422.jpg
+923757851891,How many people are standing in the picture?,5,False,amt,6,6.0,False,False,1.0,False,3.409595012664795,VG_100K/2375785.jpg
+30149955,How many trains are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.40934681892395,VG_100K/2334014.jpg
+30153715,How many people are in this photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4157981872558594,VG_100K/2327666.jpg
+923558853757,How many people have birds in the image?,0,False,amt,0,0.0,False,False,0.0,True,3.4040091037750244,VG_100K/2355885.jpg
+30138023,How many sleds are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4122462272644043,VG_100K/2353922.jpg
+9235302621211,How many of the men are wearing glasses?,1,False,amt,I can see two men wearing glasses in the image.,2.0,False,False,1.0,False,1.685218334197998,VG_100K/2353026.jpg
+30160012,How many tennis rackets are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.3754220008850098,VG_100K/2316912.jpg
+92341293996,How many people holds a cup?,1,False,amt,1,1.0,False,False,0.0,True,0.4924652576446533,VG_100K/2341293.jpg
+30156356,How many televisions are in the room?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.3963396549224854,VG_100K/2323351.jpg
+30104749,How many televisions are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.398129463195801,VG_100K_2/2405765.jpg
+30152711,How many men?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.4823720455169678,VG_100K/2329363.jpg
+9234375613207,How many cars have a surfboard on the roof?,1,False,amt,1,1.0,False,False,0.0,True,3.3952300548553467,VG_100K/2343756.jpg
+30132208,How many showers are in the bathroom?,1,True,imported_genome,0,0.0,False,False,1.0,False,3.4026575088500977,VG_100K/2363669.jpg
+923797091999,How many people are sitting on the top of train?,0,False,amt,0,0.0,False,False,0.0,True,3.422389268875122,VG_100K_2/2379709.jpg
+30128276,How many people are pictured here?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.413939952850342,VG_100K/2370469.jpg
+30130209,How many cows are there?,5,True,imported_genome,5,5.0,False,False,0.0,True,3.427367925643921,VG_100K/2367174.jpg
+9239647714125,How many fingers are in a curved shape?,4,False,amt,3,3.0,False,False,1.0,False,3.4192330837249756,VG_100K_2/2396477.jpg
+30117442,How many people are pictured?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.443403720855713,VG_100K_2/2387817.jpg
+30122171,How many people are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.463559865951538,VG_100K_2/2380381.jpg
+30141916,How many desktop computers are shown?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.472627878189087,VG_100K/2347333.jpg
+9237108312412,How many of the players are on the pitchers mound?,2,False,amt,1,1.0,False,False,1.0,False,3.470942497253418,VG_100K/2371083.jpg
+30160698,How many people are shown?,0,True,imported_genome,0,0.0,False,False,0.0,True,3.466395854949951,VG_100K/2315831.jpg
+923792434105,How many limbs with digits on them can you see in the photo?,3,False,amt,2,2.0,False,False,1.0,False,3.4748833179473877,VG_100K_2/2379243.jpg
+900012213020,How many people are holding a trophy?,1,False,amt,Three,3.0,False,False,2.0,False,3.478336811065674,VG_100K_2/1221.jpg
+30156884,How many buses are in the picture?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.4699294567108154,VG_100K/2322493.jpg
+30125108,How many people are in the ocean?,2,True,imported_genome,3,3.0,False,False,1.0,False,3.4389631748199463,VG_100K/2375783.jpg
+30122086,How many people are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.458946466445923,VG_100K_2/2380522.jpg
+30158471,How many people are pictured?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.451850414276123,VG_100K/2319521.jpg
+30132768,How many propellers in view?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4119651317596436,VG_100K/2362775.jpg
+923277158154,How many yellow numbers on the far green wall are odd?,2,False,amt,yes,,True,False,,False,3.432468891143799,VG_100K/2327715.jpg
+924017357404,How many purple frogs are in the image?,0,False,amt,0,0.0,False,False,0.0,True,3.444685935974121,VG_100K_2/2401735.jpg
+30096828,How many elephants are pictured?,0,True,imported_genome,0,0.0,False,False,0.0,True,3.4113802909851074,VG_100K_2/2409834.jpg
+30158680,How many cats are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.408298969268799,VG_100K/2319133.jpg
+9232270810403,How many people are reading book?,0,False,amt,0,0.0,False,False,0.0,True,3.4332082271575928,VG_100K/2322708.jpg
+30105320,How many surfers?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.397876024246216,VG_100K_2/2405491.jpg
+30111773,How many people are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.413231611251831,VG_100K_2/2396590.jpg
+30124768,How many people are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4167065620422363,VG_100K/2376306.jpg
+30101967,How many donuts are already made?,3,True,imported_genome,4,4.0,False,False,1.0,False,3.4452600479125977,VG_100K_2/2407179.jpg
+30117578,How many letter A's are in the room?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4097251892089844,VG_100K_2/2387626.jpg
+30149394,How many bikes are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.421144723892212,VG_100K/2334957.jpg
+30164249,How many legs are visible?,4,True,imported_genome,4,4.0,False,False,0.0,True,0.5110776424407959,VG_100K_2/2412530.jpg
+30129812,How many phones can be seen?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.423180341720581,VG_100K/2367900.jpg
+30122323,How many toilets are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4208340644836426,VG_100K_2/2380144.jpg
+30107800,How many planes are in the air?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.414393901824951,VG_100K_2/2402725.jpg
+30166961,How many sandwiches are here?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4254512786865234,VG_100K_2/2417916.jpg
+9237336420809,How many cups are in a hand?,1,False,amt,2,2.0,False,False,1.0,False,3.4517674446105957,VG_100K/2373364.jpg
+30152159,How many cats are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4392223358154297,VG_100K/2330395.jpg
+30100115,How many people are shown on the bus?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.426814079284668,VG_100K_2/2408143.jpg
+30144800,How many people are in this picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.477905511856079,VG_100K/2342538.jpg
+30146856,How many trains are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4349524974823,VG_100K/2339153.jpg
+30131669,How many women are visible?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4522035121917725,VG_100K/2364599.jpg
+30131912,How many people are in the picture?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4547674655914307,VG_100K/2364175.jpg
+9159280021047,How many people are wearing a white coat?,1,False,amt,1,1.0,False,False,0.0,True,3.4788739681243896,VG_100K/1592800.jpg
+9241311518635,How many giraffes are standing by the fence?,1,False,amt,2,2.0,False,False,1.0,False,3.4257240295410156,VG_100K_2/2413115.jpg
+923760199948,How many towels are hanging next to the toilet?,3,False,amt,2,2.0,False,False,1.0,False,3.4423999786376953,VG_100K/2376019.jpg
+30120300,How many tails are on the kite?,3,True,imported_genome,2,2.0,False,False,1.0,False,3.44490647315979,VG_100K_2/2383405.jpg
+30098474,How many people are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.428680896759033,VG_100K_2/2408665.jpg
+30113342,How many lemons in the bowl?,2,True,imported_genome,3,3.0,False,False,1.0,False,1.9395921230316162,VG_100K_2/2394060.jpg
+923672285848,How many surfers are completely dressed?,1,False,amt,3,3.0,False,False,2.0,False,1.415513277053833,VG_100K/2367228.jpg
+30109658,How many giraffes are there?,5,True,imported_genome,5,5.0,False,False,0.0,True,3.4480032920837402,VG_100K_2/2399932.jpg
+923435858842,How many people are playing football on the field?,0,False,amt,0,0.0,False,False,0.0,True,3.412862539291382,VG_100K/2343585.jpg
+9235848917912,How many people are playing psp game?,0,False,amt,0,0.0,False,False,0.0,True,3.421860694885254,VG_100K/2358489.jpg
+923227654224,How many man sitiing on the elephant?,1,False,amt,1,1.0,False,False,0.0,True,3.438128709793091,VG_100K/2322765.jpg
+30138795,How many grills are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4414265155792236,VG_100K/2352599.jpg
+30109326,How many vehicles are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.437861442565918,VG_100K_2/2400369.jpg
+30117524,How many bears are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.4277095794677734,VG_100K_2/2387696.jpg
+30139374,How many cats are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.5255954265594482,VG_100K/2351586.jpg
+30154329,How many planes are there?,4,True,imported_genome,5,5.0,False,False,1.0,False,1.4258127212524414,VG_100K/2326639.jpg
+30149905,How many people are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.438649892807007,VG_100K/2334088.jpg
+30097120,How many cats are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4266271591186523,VG_100K_2/2409708.jpg
+30133871,How many trains are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.446200132369995,VG_100K/2360894.jpg
+30164912,How many people are shown?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4465391635894775,VG_100K_2/2412040.jpg
+923314151695,How many of the glasses are empty?,1,False,amt,1,1.0,False,False,0.0,True,3.4234137535095215,VG_100K/2331415.jpg
+30123362,How many beds are in the picture?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.408137321472168,VG_100K_2/2378517.jpg
+9233803011265,How many blue umbrellas are in the image?,1,False,amt,1,1.0,False,False,0.0,True,3.427288770675659,VG_100K/2338030.jpg
+923213252473,How many palm trees are standing to the right of the truck?,2,False,amt,2,2.0,False,False,0.0,True,3.402169942855835,VG_100K/2321325.jpg
+30115473,How many people are in this photo?,0,True,imported_genome,0,0.0,False,False,0.0,True,3.429892063140869,VG_100K_2/2390784.jpg
+924048342244,How many street signs are in the image?,1,False,amt,2,2.0,False,False,1.0,False,3.420912742614746,VG_100K_2/2404834.jpg
+30135941,How many cats are there?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4601476192474365,VG_100K/2357400.jpg
+30135769,How many cell phones are on the desk?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4213287830352783,VG_100K/2357697.jpg
+924087776903,How many people are playing football?,0,False,amt,0,0.0,False,False,0.0,True,3.463907241821289,VG_100K_2/2408777.jpg
+30134325,How many sandwiches are there?,2,True,imported_genome,2,2.0,False,False,0.0,True,0.5208346843719482,VG_100K/2360154.jpg
+9231756615208,How many segments of that big thick line have their gold on the top?,2,False,amt,2,2.0,False,False,0.0,True,3.4577982425689697,VG_100K/2317566.jpg
+30092495,How many glasses are in the table?,4,True,imported_genome,Three,3.0,False,False,1.0,False,3.4536898136138916,VG_100K/6.jpg
+30101353,How many hydrants are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,1.4352331161499023,VG_100K_2/2407480.jpg
+30133813,How many sinks are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.445765972137451,VG_100K/2360987.jpg
+9239660319549,How many people are reading book?,0,False,amt,0,0.0,False,False,0.0,True,1.4254708290100098,VG_100K_2/2396603.jpg
+9237994017453,How many clock faces are visible on the structure in the middle of the platform?,2,False,amt,2,2.0,False,False,0.0,True,3.4400155544281006,VG_100K_2/2379940.jpg
+9238454614354,How many players are holding a tennis racket in their left hand?,1,False,amt,1,1.0,False,False,0.0,True,1.4275758266448975,VG_100K_2/2384546.jpg
+30122822,How many kites?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.413233995437622,VG_100K_2/2379387.jpg
+30155658,How many horses are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4330172538757324,VG_100K/2324502.jpg
+923845967647,How many sentient beings are dogs in this image?,1,False,amt,1,1.0,False,False,0.0,True,3.427447557449341,VG_100K_2/2384596.jpg
+30163511,How many giraffes are pictured?,5,True,imported_genome,6,6.0,False,False,1.0,False,3.429039478302002,VG_100K_2/2413057.jpg
+9234818310470,How many black cows are there?,0,False,amt,0,0.0,False,False,0.0,True,3.443380355834961,VG_100K/2348183.jpg
+30111425,How many statues are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.456535816192627,VG_100K_2/2397109.jpg
+30145829,How many window panes are there?,12,True,imported_genome,12,12.0,False,False,0.0,True,3.4492485523223877,VG_100K/2340864.jpg
+30110967,How many flag poles are in the picture?,1,True,imported_genome,0,0.0,False,False,1.0,False,3.4302561283111572,VG_100K_2/2397849.jpg
+9233631314503,How many people wearing blue shirts are there?,1,False,amt,1,1.0,False,False,0.0,True,3.423374652862549,VG_100K/2336313.jpg
+9232727715229,How many white color birds are there?,0,False,amt,1,1.0,False,False,1.0,False,1.4159460067749023,VG_100K/2327277.jpg
+30150555,How many people are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4299099445343018,VG_100K/2333095.jpg
+9237438919263,How many people are wearing black shirt?,1,False,amt,1,1.0,False,False,0.0,True,0.509047269821167,VG_100K/2374389.jpg
+9239221510509,How many people are riding the elephant?,3,False,amt,2,2.0,False,False,1.0,False,3.4289462566375732,VG_100K_2/2392215.jpg
+30156211,How many knives are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4400548934936523,VG_100K/2323574.jpg
+30140790,How many people are there in this picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4119133949279785,VG_100K/2349272.jpg
+923264139510,How many pieces of clothing has the toddler not thrown in the toilet?,3,False,amt,1,1.0,False,False,2.0,False,3.4405155181884766,VG_100K/2326413.jpg
+30142779,How many snowboards are in the picture?,5,True,imported_genome,3,3.0,False,False,2.0,False,3.4459688663482666,VG_100K/2345999.jpg
+9237777513220,How many people are on elephants?,1,False,amt,1,1.0,False,False,0.0,True,3.4210078716278076,VG_100K_2/2377775.jpg
+30155917,How many trees are in the field?,1,True,imported_genome,5,5.0,False,False,4.0,False,3.420743942260742,VG_100K/2324069.jpg
+30141864,How many clocks are here?,1,True,imported_genome,2,2.0,False,False,1.0,False,0.5104351043701172,VG_100K/2347413.jpg
+30104323,How many people are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4490082263946533,VG_100K_2/2406010.jpg
+923293601812,How many airplane on the ground?,0,False,amt,0,0.0,False,False,0.0,True,1.415039300918579,VG_100K/2329360.jpg
+9232848416733,How many people are playing football?,0,False,amt,0,0.0,False,False,0.0,True,3.4400243759155273,VG_100K/2328484.jpg
+923238934682,How many people are wearing a blue sweatshirt?,1,False,amt,1,1.0,False,False,0.0,True,3.4506170749664307,VG_100K/2323893.jpg
+30159859,How many people are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.455690383911133,VG_100K/2317155.jpg
+30155053,How many clocks are shown?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.4310429096221924,VG_100K/2325455.jpg
+30123630,How many signs are there?,3,True,imported_genome,3,3.0,False,False,0.0,True,3.447425603866577,VG_100K_2/2378046.jpg
+30116819,How many horses are pictured?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4424564838409424,VG_100K_2/2388783.jpg
+30160898,How many busses?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4072766304016113,VG_100K/2315504.jpg
+30097088,How many dogs?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4241626262664795,VG_100K_2/2409721.jpg
+30118458,How many people are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.5083720684051514,VG_100K_2/2386232.jpg
+30131938,How many people in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4702720642089844,VG_100K/2364135.jpg
+923686063898,How many people in pink jackets are there?,1,False,amt,1,1.0,False,False,0.0,True,0.5103650093078613,VG_100K/2368606.jpg
+92415545606,How many horses are carrying surfboards?,0,False,amt,0,0.0,False,False,0.0,True,3.4483158588409424,VG_100K_2/2415545.jpg
+30145971,How many lamps are shown?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4515092372894287,VG_100K/2340630.jpg
+9239254120924,How many cable wires are below the bird's feet?,2,False,amt,Two,2.0,False,False,0.0,True,3.465595245361328,VG_100K_2/2392541.jpg
+30120291,How many tusks does the elephant have?,2,True,imported_genome,0,0.0,False,False,2.0,False,3.439951181411743,VG_100K_2/2383419.jpg
+30102854,How many train tracks are there?,2,True,imported_genome,1,1.0,False,False,1.0,False,3.449955940246582,VG_100K_2/2406699.jpg
+30129807,How many women are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4616169929504395,VG_100K/2367908.jpg
+924142054872,How many peoples holding the bike?,1,False,amt,1,1.0,False,False,0.0,True,3.4638593196868896,VG_100K_2/2414205.jpg
+30133880,How many items are on the fireplace?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.424712657928467,VG_100K/2360875.jpg
+30129465,How many refrigerators are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.437920093536377,VG_100K/2368484.jpg
+9235280712294,How many cars in the parking lot are yellow?,0,False,amt,0,0.0,False,False,0.0,True,3.429870843887329,VG_100K/2352807.jpg
+30117638,How many computers are on the table?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4177088737487793,VG_100K_2/2387530.jpg
+923738907305,How many people are eating food?,0,False,amt,0,0.0,False,False,0.0,True,3.4244253635406494,VG_100K/2373890.jpg
+923695617423,How many of the people are police officers?,1,False,amt,1,1.0,False,False,0.0,True,3.4298858642578125,VG_100K/2369561.jpg
+30138108,How many people are in this photo?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4542157649993896,VG_100K/2353785.jpg
+30137799,How many men are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4394848346710205,VG_100K/2354294.jpg
+30156857,How many suitcases are there?,3,True,imported_genome,Three,3.0,False,False,0.0,True,3.4643330574035645,VG_100K/2322543.jpg
+9237375019532,How many white horses are there?,0,False,amt,1,1.0,False,False,1.0,False,3.4647622108459473,VG_100K/2373750.jpg
+30134027,How many umpires are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4375550746917725,VG_100K/2360641.jpg
+30115483,How many kites are in the image?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4349541664123535,VG_100K_2/2390769.jpg
+9240912816582,How many monkeys are eating grapes?,0,False,amt,0,0.0,False,False,0.0,True,3.44388747215271,VG_100K_2/2409128.jpg
+9235652612661,How many plates are white in the picture?,5,False,amt,6,6.0,False,False,1.0,False,3.4525022506713867,VG_100K/2356526.jpg
+30125617,How many bears are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4438910484313965,VG_100K/2374920.jpg
+30125138,How many colors is the street light?,4,True,imported_genome,4,4.0,False,False,0.0,True,3.450955390930176,VG_100K/2375730.jpg
+30116469,How many planes are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.537097692489624,VG_100K_2/2389315.jpg
+923464323486,How many airplanes are driving in the river?,0,False,amt,0,0.0,False,False,0.0,True,3.4162628650665283,VG_100K/2346432.jpg
+30100995,How many players are there?,3,True,imported_genome,Three players,3.0,False,False,0.0,True,3.4547929763793945,VG_100K_2/2407682.jpg
+30160205,How many knives are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.441608428955078,VG_100K/2316612.jpg
+30105436,How many carrots are seen?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4353160858154297,VG_100K_2/2405431.jpg
+30159533,How many speed limit signs are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4177134037017822,VG_100K/2317669.jpg
+30151705,How many elephants are there?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.416229248046875,VG_100K/2331124.jpg
+30098795,How many lamps are in the picture?,2,True,imported_genome,Three,3.0,False,False,1.0,False,3.429408550262451,VG_100K_2/2408829.jpg
+923600037028,How many yellow motors are there?,0,False,amt,1,1.0,False,False,1.0,False,3.4286208152770996,VG_100K/2360003.jpg
+30142213,How many people are in the kitchen?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.419808864593506,VG_100K/2346838.jpg
+911600284713,How many of the people on bikes are wearing orange shirts in the image?,1,False,amt,2,2.0,False,False,1.0,False,1.4084205627441406,VG_100K/1160028.jpg
+9241139416120,How many red suitcases are standing up?,1,False,amt,2,2.0,False,False,1.0,False,3.425071954727173,VG_100K_2/2411394.jpg
+30145288,How many people are in the picture?,2,True,imported_genome,1,1.0,False,False,1.0,False,3.412493944168091,VG_100K/2341731.jpg
+30151291,How many skateboards are shown?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4148647785186768,VG_100K/2331830.jpg
+30138051,How many people are pictured?,5,True,imported_genome,5,5.0,False,False,0.0,True,3.438891887664795,VG_100K/2353870.jpg
+9236227015332,How many yellow kites are in the picture?,0,False,amt,0,0.0,False,False,0.0,True,3.4281671047210693,VG_100K/2362270.jpg
+923862106562,How many people on the tennis court are wearing a skort?,1,False,amt,1,1.0,False,False,0.0,True,3.414494037628174,VG_100K_2/2386210.jpg
+9237217016839,How many cats are drinking water?,0,False,amt,0,0.0,False,False,0.0,True,3.428925037384033,VG_100K/2372170.jpg
+30141285,How many beverages are on the table?,2,True,imported_genome,3,3.0,False,False,1.0,False,3.449631929397583,VG_100K/2348369.jpg
+923433566491,How many people are there crouching?,1,False,amt,1,1.0,False,False,0.0,True,3.416879415512085,VG_100K/2343356.jpg
+30096123,How many men are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4345786571502686,VG_100K_2/2410216.jpg
+30146435,How many planes are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.431821584701538,VG_100K/2339821.jpg
+9237711121053,How many round signs are on the building?,2,False,amt,2,2.0,False,False,0.0,True,3.4235103130340576,VG_100K/2377111.jpg
+924100689643,How many pairs of scissors are in this image?,1,False,amt,2,2.0,False,False,1.0,False,3.430861711502075,VG_100K_2/2410068.jpg
+30120489,How many players are on the field?,1,True,imported_genome,Two,2.0,False,False,1.0,False,3.447842597961426,VG_100K_2/2383097.jpg
+30131304,How many towers are visible?,2,True,imported_genome,3,3.0,False,False,1.0,False,3.48356556892395,VG_100K/2365277.jpg
+30105849,How many hot dogs are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4194564819335938,VG_100K_2/2405172.jpg
+92415787401,How many pink girraffes are shown?,0,False,amt,1,1.0,False,False,1.0,False,3.4503684043884277,VG_100K_2/2415787.jpg
+30166670,How many screens?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.40793776512146,VG_100K_2/2417294.jpg
+30127380,How many horses are in the photo?,3,True,imported_genome,2,2.0,False,False,1.0,False,3.4178225994110107,VG_100K/2371976.jpg
+30118986,How many toilets do you see?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.430901050567627,VG_100K_2/2385364.jpg
+30101780,How many toilets are seen?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4440410137176514,VG_100K_2/2407273.jpg
+9239148818642,How many black dogs are to the left of the person?,0,False,amt,0,0.0,False,False,0.0,True,3.4453258514404297,VG_100K_2/2391488.jpg
+9235158915802,How many of the planes are landing?,0,False,amt,1,1.0,False,False,1.0,False,3.4342503547668457,VG_100K/2351589.jpg
+30133213,How many people are shown in the photo?,2,True,imported_genome,Two people,2.0,False,False,0.0,True,3.481976270675659,VG_100K/2361993.jpg
+30133721,How many planes are in the foreground?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4401674270629883,VG_100K/2361144.jpg
+30102942,How many elephants are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.445767641067505,VG_100K_2/2406654.jpg
+923665518576,How many pink birds are there?,0,False,amt,1,1.0,False,False,1.0,False,3.429656982421875,VG_100K/2366551.jpg
+30110679,How many cats are on the chair?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4250364303588867,VG_100K_2/2398318.jpg
+30148887,How many hot dogs are there?,3,True,imported_genome,Three,3.0,False,False,0.0,True,3.4373281002044678,VG_100K/2335767.jpg
+30106775,How many airplanes are in the picture?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.434994697570801,VG_100K_2/2404335.jpg
+30159822,How many dogs are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4793572425842285,VG_100K/2317216.jpg
+30127304,How many piers are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.437235116958618,VG_100K/2372113.jpg
+9241319010240,How many sheep have green wool?,0,False,amt,0,0.0,False,False,0.0,True,3.4546241760253906,VG_100K_2/2413190.jpg
+30111248,How many lamps in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,1.4550738334655762,VG_100K_2/2397393.jpg
+30103675,How many bowls in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4508843421936035,VG_100K_2/2406305.jpg
+9238407712521,How many cars are in front of the bus?,1,False,amt,1,1.0,False,False,0.0,True,3.431492328643799,VG_100K_2/2384077.jpg
+30164751,How many umbrellas are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4283857345581055,VG_100K_2/2412160.jpg
+30162413,How many lamp shades are on the chandelier?,6,True,imported_genome,Two,2.0,False,False,4.0,False,3.445673942565918,VG_100K_2/2413808.jpg
+30120966,How many knives are shown?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4387497901916504,VG_100K_2/2382348.jpg
+9237398513684,How many people are reading book?,0,False,amt,0,0.0,False,False,0.0,True,3.4390554428100586,VG_100K/2373985.jpg
+923662786764,How many people are riding a horse?,2,False,amt,1,1.0,False,False,1.0,False,3.4403579235076904,VG_100K/2366278.jpg
+9237974813457,How many green chairs are in the room?,1,False,amt,1,1.0,False,False,0.0,True,3.4448328018188477,VG_100K_2/2379748.jpg
+30122607,How many giraffes are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.449782609939575,VG_100K_2/2379705.jpg
+30114751,How many people are in the photo?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.442432403564453,VG_100K_2/2391892.jpg
+923641776172,How many sides of the fences can you see?,2,False,amt,2,2.0,False,False,0.0,True,3.4687561988830566,VG_100K/2364177.jpg
+30111606,How many people are shown?,6,True,imported_genome,6,6.0,False,False,0.0,True,3.4236929416656494,VG_100K_2/2396856.jpg
+923408527472,How many cakes have chocolate icing?,1,False,amt,1,1.0,False,False,0.0,True,3.4431045055389404,VG_100K/2340852.jpg
+30122506,How many dogs are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.5210459232330322,VG_100K_2/2379875.jpg
+30118974,How many people are in the picture?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.4472930431365967,VG_100K_2/2385381.jpg
+92373302520,How many cows are playing poker?,0,False,amt,0,0.0,False,False,0.0,True,3.4486310482025146,VG_100K/2373302.jpg
+924093736642,How many stuffed cats are in the image?,0,False,amt,0,0.0,False,False,0.0,True,3.4229984283447266,VG_100K_2/2409373.jpg
+30096326,How many clocks are there?,2,True,imported_genome,1,1.0,False,False,1.0,False,0.5221788883209229,VG_100K_2/2410116.jpg
+30104074,How many birds are shown?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.453768253326416,VG_100K_2/2406131.jpg
+9232549120371,How many people are sitting on top of a kite in the image?,0,False,amt,1,1.0,False,False,1.0,False,3.4340646266937256,VG_100K/2325491.jpg
+9235869816932,How many of the kites are shaped like a person?,1,False,amt,1,1.0,False,False,0.0,True,3.434677839279175,VG_100K/2358698.jpg
+30165092,How many laptops are on the table?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4273085594177246,VG_100K_2/2411932.jpg
+92331621201,How many elephants are facing forward?,1,False,amt,3,3.0,False,False,2.0,False,1.4184815883636475,VG_100K/2331621.jpg
+923922402993,How many people in orange are there?,1,False,amt,1,1.0,False,False,0.0,True,3.4144492149353027,VG_100K_2/2392240.jpg
+923611793068,How many prongs does the fork on the table have?,4,False,amt,3,3.0,False,False,1.0,False,1.4292726516723633,VG_100K/2361179.jpg
+9235522620234,How many people are wearing yellow?,1,False,amt,1,1.0,False,False,0.0,True,3.431724786758423,VG_100K/2355226.jpg
+30092668,How many tables are in the picture?,4,True,imported_genome,8,8.0,False,False,4.0,False,3.450578451156616,VG_100K/44.jpg
+30093880,How many people are in the mirror?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4186606407165527,VG_100K_2/2414697.jpg
+30154938,How many cats are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4231057167053223,VG_100K/2325621.jpg
+30135422,How many clocks are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4222769737243652,VG_100K/2358303.jpg
+30149718,How many bears are there?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.4367012977600098,VG_100K/2334416.jpg
+30128286,How many pizzas area there?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.438650608062744,VG_100K/2370442.jpg
+30122521,How many eggs are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.440129280090332,VG_100K_2/2379835.jpg
+9237008317853,How many people are pushing a stroller?,1,False,amt,1,1.0,False,False,0.0,True,3.4419548511505127,VG_100K/2370083.jpg
+923554065884,How many people are washing hand?,0,False,amt,0,0.0,False,False,0.0,True,3.432567834854126,VG_100K/2355406.jpg
+30151402,How many people are shown?,1,True,imported_genome,2,2.0,False,False,1.0,False,3.4508728981018066,VG_100K/2331650.jpg
+923208817622,How many pink sinks are there in the bathroom?,0,False,amt,0,0.0,False,False,0.0,True,3.4541029930114746,VG_100K/2320881.jpg
+30111455,How many people are in the picture?,5,True,imported_genome,Four people,4.0,False,False,1.0,False,3.464989185333252,VG_100K_2/2397074.jpg
+923514847025,How many buses are on fire?,0,False,amt,1,1.0,False,False,1.0,False,3.4519007205963135,VG_100K/2351484.jpg
+30106481,How many sandwiches are on the plate?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.4315619468688965,VG_100K_2/2404840.jpg
+923432392681,How many people are flying a kite?,0,False,amt,0,0.0,False,False,0.0,True,3.421680212020874,VG_100K/2343239.jpg
+30159455,How many men are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.42434024810791,VG_100K/2317788.jpg
+30123644,How many cats are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4574942588806152,VG_100K_2/2378006.jpg
+9237870114893,How many motorcyclists are wearing cowboy hats?,0,False,amt,0,0.0,False,False,0.0,True,3.457498073577881,VG_100K_2/2378701.jpg
+30161676,How many windows are shown on the cake?,10,True,imported_genome,10,10.0,False,False,0.0,True,3.443603277206421,VG_100K_2/2414505.jpg
+900010221845,How many people are wrapping presents?,4,False,amt,Three people,3.0,False,False,1.0,False,3.464965343475342,VG_100K_2/1022.jpg
+923386952116,How many bananas are orange in the image?,0,False,amt,0,0.0,False,False,0.0,True,3.439908981323242,VG_100K/2338695.jpg
+923345875070,How many person in the images is wearing cap?,3,False,amt,2,2.0,False,False,1.0,False,3.4276115894317627,VG_100K/2334587.jpg
+30112607,How many boats are in the water?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4126479625701904,VG_100K_2/2395219.jpg
+30154432,How many plates are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4241225719451904,VG_100K/2326459.jpg
+30122293,How many cows in the field?,6,True,imported_genome,6,6.0,False,False,0.0,True,3.4260542392730713,VG_100K_2/2380188.jpg
+30105471,How many chairs are pictured?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.430337905883789,VG_100K_2/2405415.jpg
+9235980221187,How many kids are sitting on top of the plane?,0,False,amt,0,0.0,False,False,0.0,True,3.425218343734741,VG_100K/2359802.jpg
+30150522,How many signs are on the pole?,2,True,imported_genome,2,2.0,False,False,0.0,True,3.429741144180298,VG_100K/2333152.jpg
+30149651,How many elephants are there?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.422848701477051,VG_100K/2334536.jpg
+9233884914632,How many people have their mouth open?,1,False,amt,1,1.0,False,False,0.0,True,3.4555695056915283,VG_100K/2338849.jpg
+9241677211583,How many planes are flying in the image?,1,False,amt,One,1.0,False,False,0.0,True,3.4545390605926514,VG_100K_2/2416772.jpg
+30117114,How many zebras are in the photo?,1,True,imported_genome,1,1.0,False,False,0.0,True,3.4409732818603516,VG_100K_2/2388352.jpg
+30109201,How many butterfly kites?,1,True,imported_genome,1,1.0,False,False,0.0,True,0.5092766284942627,VG_100K_2/2400577.jpg
+90002459653,How many airplanes have green on them?,1,False,amt,One,1.0,False,False,0.0,True,3.4439213275909424,VG_100K_2/2459.jpg
+30155605,How many overhead lights are on?,2,True,imported_genome,Two,2.0,False,False,0.0,True,3.4701080322265625,VG_100K/2324606.jpg
+30165682,How many buses are pictured?,2,True,imported_genome,Three,3.0,False,False,1.0,False,1.4411358833312988,VG_100K_2/2415507.jpg
+9237575316933,How many people have a longthick braid?,1,False,amt,1,1.0,False,False,0.0,True,3.4342432022094727,VG_100K/2375753.jpg
+30141264,How many people are in photo?,6,True,imported_genome,6,6.0,False,False,0.0,True,3.445087432861328,VG_100K/2348403.jpg
+9237578716238,How many people are wearing helmet?,1,False,amt,1,1.0,False,False,0.0,True,3.4705586433410645,VG_100K/2375787.jpg

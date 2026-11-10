@@ -1,0 +1,24 @@
+BENCHMARK: OmniSpatial
+MODELO: Qwen/Qwen2-VL-2B-Instruct
+FECHA: 2026-09-13T01:00:26.896475
+TRACKS: ['Geometric_Reasoning', 'Motion_Analysis', 'Egocentric', 'Allocentric']
+N_SAMPLE_PER_TRACK: 100
+SEMILLA: 42
+--------------------------------------------------
+TIMEOUT_RATE: 0.0000
+PARSE_FAIL_RATE: 0.0000
+ACCURACY_GLOBAL: 0.4325
+TIEMPO_MEDIO_SEG: 2.5880
+TIEMPO_STD_SEG: 0.3999
+VRAM_PICO_MB: 4891.70
+RAM_PICO_MB: 1884.04
+--------------------------------------------------
+DESGLOSE_POR_TRACK
+  Geometric_Reasoning: n_val=100 n_total=100 accuracy=0.3500 baseline_azar=0.2700
+  Motion_Analysis: n_val=100 n_total=100 accuracy=0.4300 baseline_azar=0.3100
+  Egocentric: n_val=100 n_total=100 accuracy=0.5900 baseline_azar=0.3600
+  Allocentric: n_val=100 n_total=100 accuracy=0.3600 baseline_azar=0.2800
+--------------------------------------------------
+GEOMETRIC_REASONING_DETALLE
+  sin_opts: n=86 accuracy=0.3605
+  con_opts: n=14 accuracy=0.2857

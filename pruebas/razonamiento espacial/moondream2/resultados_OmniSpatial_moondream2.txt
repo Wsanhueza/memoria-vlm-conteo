@@ -1,0 +1,24 @@
+BENCHMARK: OmniSpatial
+MODELO: vikhyatk/moondream2  revision=2025-06-21
+FECHA: 2026-09-13T00:10:50.846784
+TRACKS: ['Geometric_Reasoning', 'Motion_Analysis', 'Egocentric', 'Allocentric']
+N_SAMPLE_PER_TRACK: 100
+SEMILLA: 42
+--------------------------------------------------
+TIMEOUT_RATE: 0.0000
+PARSE_FAIL_RATE: 0.0000
+ACCURACY_GLOBAL: 0.3725
+TIEMPO_MEDIO_SEG: 4.9363
+TIEMPO_STD_SEG: 0.8329
+VRAM_PICO_MB: 5304.24
+RAM_PICO_MB: 2546.20
+--------------------------------------------------
+DESGLOSE_POR_TRACK
+  Geometric_Reasoning: n_val=100 n_total=100 accuracy=0.2900 baseline_azar=0.2700
+  Motion_Analysis: n_val=100 n_total=100 accuracy=0.3300 baseline_azar=0.3100
+  Egocentric: n_val=100 n_total=100 accuracy=0.6000 baseline_azar=0.3600
+  Allocentric: n_val=100 n_total=100 accuracy=0.2700 baseline_azar=0.2800
+--------------------------------------------------
+GEOMETRIC_REASONING_DETALLE
+  sin_opts: n=86 accuracy=0.2791
+  con_opts: n=14 accuracy=0.3571

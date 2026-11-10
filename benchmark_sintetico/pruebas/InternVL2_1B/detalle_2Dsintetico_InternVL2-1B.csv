@@ -1,0 +1,548 @@
+image_file,tipo_pregunta,num_shapes,pregunta,ground_truth,respuesta_cruda,prediccion,parse_fail,timeout,error_abs,acierto_exacto,tiempo_seg
+escena_0000_n005.png,conteo_general,5,How many shapes are there in total in the image?,5,There are four shapes in total in the image.,4,False,False,1,False,2.6726877689361572
+escena_0000_n005.png,conteo_forma,5,How many diamonds are there in the image?,0,There are four diamonds in the image.,4,False,False,4,False,0.9760966300964355
+escena_0000_n005.png,conteo_color,5,How many yellow shapes are there in the image?,1,There is one yellow shape in the image.,1,False,False,0,True,1.1097686290740967
+escena_0000_n005.png,conteo_combinado,5,How many purple diamonds are there in the image?,0,There is only one purple diamond in the image.,1,False,False,1,False,1.23280930519104
+escena_0001_n005.png,conteo_general,5,How many shapes are there in total in the image?,5,There are three shapes in total in the image.,3,False,False,2,False,1.1731290817260742
+escena_0001_n005.png,conteo_forma,5,How many squares are there in the image?,3,There are four squares in the image.,4,False,False,1,False,1.058689832687378
+escena_0001_n005.png,conteo_color,5,How many blue shapes are there in the image?,0,There is only one blue shape in the image.,1,False,False,1,False,1.0905892848968506
+escena_0001_n005.png,conteo_combinado,5,How many green diamonds are there in the image?,0,There is 1 green diamond in the image.,1,False,False,1,False,1.0825676918029785
+escena_0002_n005.png,conteo_general,5,How many shapes are there in total in the image?,5,There are a total of 10 shapes in the image.,10,False,False,5,False,1.204484224319458
+escena_0002_n005.png,conteo_forma,5,How many triangles are there in the image?,2,There are three triangles in the image.,3,False,False,1,False,0.6472420692443848
+escena_0002_n005.png,conteo_color,5,How many green shapes are there in the image?,0,There is one green shape in the image.,1,False,False,1,False,0.7668614387512207
+escena_0002_n005.png,conteo_combinado,5,How many blue squares are there in the image?,0,There is one blue square in the image.,1,False,False,1,False,0.7552957534790039
+escena_0003_n005.png,conteo_general,5,How many shapes are there in total in the image?,5,There are a total of 10 shapes in the image.,10,False,False,5,False,1.0230958461761475
+escena_0003_n005.png,conteo_forma,5,How many circles are there in the image?,0,There are four circles in the image.,4,False,False,4,False,0.6632170677185059
+escena_0003_n005.png,conteo_color,5,How many yellow shapes are there in the image?,0,There is one yellow shape in the image.,1,False,False,1,False,0.683058500289917
+escena_0003_n005.png,conteo_combinado,5,How many blue diamonds are there in the image?,0,There are three blue diamonds in the image.,3,False,False,3,False,0.6869597434997559
+escena_0004_n005.png,conteo_general,5,How many shapes are there in total in the image?,5,There are a total of five shapes in the image.,5,False,False,0,True,0.7638936042785645
+escena_0004_n005.png,conteo_forma,5,How many squares are there in the image?,2,There are four squares in the image.,4,False,False,2,False,0.6614761352539062
+escena_0004_n005.png,conteo_color,5,How many pink shapes are there in the image?,1,There is only one pink shape in the image.,1,False,False,0,True,0.7238421440124512
+escena_0004_n005.png,conteo_combinado,5,How many orange diamonds are there in the image?,0,There is only one orange diamond in the image.,1,False,False,1,False,0.7189111709594727
+escena_0005_n010.png,conteo_general,10,How many shapes are there in total in the image?,10,There are a total of 13 shapes in the image.,13,False,False,3,False,0.9627430438995361
+escena_0005_n010.png,conteo_forma,10,How many squares are there in the image?,1,There are a total of 10 squares in the image.,10,False,False,9,False,0.8121984004974365
+escena_0005_n010.png,conteo_color,10,How many green shapes are there in the image?,0,There are no green shapes in the image.,0,False,False,0,True,0.6830065250396729
+escena_0005_n010.png,conteo_combinado,10,How many blue triangles are there in the image?,1,There are three blue triangles in the image.,3,False,False,2,False,0.6870262622833252
+escena_0006_n010.png,conteo_general,10,How many shapes are there in total in the image?,10,There are a total of 10 shapes in the image.,10,False,False,0,True,0.812798023223877
+escena_0006_n010.png,conteo_forma,10,How many squares are there in the image?,3,There are a total of 10 squares in the image.,10,False,False,7,False,0.810157299041748
+escena_0006_n010.png,conteo_color,10,How many purple shapes are there in the image?,0,There is only one purple shape in the image.,1,False,False,1,False,0.8114016056060791
+escena_0006_n010.png,conteo_combinado,10,How many orange circles are there in the image?,0,There is only one orange circle in the image.,1,False,False,1,False,0.8110239505767822
+escena_0007_n010.png,conteo_general,10,How many shapes are there in total in the image?,10,There are a total of 15 shapes in the image.,15,False,False,5,False,0.9922223091125488
+escena_0007_n010.png,conteo_forma,10,How many circles are there in the image?,1,There are a total of 10 circles in the image.,10,False,False,9,False,0.8235836029052734
+escena_0007_n010.png,conteo_color,10,How many blue shapes are there in the image?,0,There are three blue shapes in the image.,3,False,False,3,False,0.6902070045471191
+escena_0007_n010.png,conteo_combinado,10,How many orange triangles are there in the image?,1,There are three orange triangles in the image.,3,False,False,2,False,0.6846120357513428
+escena_0008_n010.png,conteo_general,10,How many shapes are there in total in the image?,10,There are a total of 10 shapes in the image.,10,False,False,0,True,0.8198878765106201
+escena_0008_n010.png,conteo_forma,10,How many circles are there in the image?,2,There are a total of six circles in the image.,6,False,False,4,False,0.7605869770050049
+escena_0008_n010.png,conteo_color,10,How many light blue shapes are there in the image?,1,There are two light blue shapes in the image.,2,False,False,1,False,0.7216081619262695
+escena_0008_n010.png,conteo_combinado,10,How many light blue triangles are there in the image?,0,There is 1 light blue triangle in the image.,1,False,False,1,False,0.7460834980010986
+escena_0009_n010.png,conteo_general,10,How many shapes are there in total in the image?,10,There are a total of 15 shapes in the image.,15,False,False,5,False,0.8215367794036865
+escena_0009_n010.png,conteo_forma,10,How many squares are there in the image?,1,There are a total of 10 squares in the image.,10,False,False,9,False,0.8296029567718506
+escena_0009_n010.png,conteo_color,10,How many blue shapes are there in the image?,0,There are three blue shapes in the image.,3,False,False,3,False,0.6829874515533447
+escena_0009_n010.png,conteo_combinado,10,How many green squares are there in the image?,0,There is one green square in the image.,1,False,False,1,False,0.6922092437744141
+escena_0010_n015.png,conteo_general,15,How many shapes are there in total in the image?,15,There are a total of 15 shapes in the image.,15,False,False,0,True,0.8267161846160889
+escena_0010_n015.png,conteo_forma,15,How many circles are there in the image?,6,There are a total of 15 circles in the image.,15,False,False,9,False,0.9096271991729736
+escena_0010_n015.png,conteo_color,15,How many blue shapes are there in the image?,2,There are three blue shapes in the image.,3,False,False,1,False,0.7823457717895508
+escena_0010_n015.png,conteo_combinado,15,How many blue circles are there in the image?,0,There are three blue circles in the image.,3,False,False,3,False,0.8113272190093994
+escena_0011_n015.png,conteo_general,15,How many shapes are there in total in the image?,15,There are a total of 15 shapes in the image.,15,False,False,0,True,0.8519654273986816
+escena_0011_n015.png,conteo_forma,15,How many squares are there in the image?,3,There are a total of 15 squares in the image.,15,False,False,12,False,0.832719087600708
+escena_0011_n015.png,conteo_color,15,How many pink shapes are there in the image?,2,There are three pink shapes in the image.,3,False,False,1,False,0.7192001342773438
+escena_0011_n015.png,conteo_combinado,15,How many green diamonds are there in the image?,0,There are a total of 1 green diamond in the image.,1,False,False,1,False,0.8241477012634277
+escena_0012_n015.png,conteo_general,15,How many shapes are there in total in the image?,15,There are a total of 16 shapes in the image.,16,False,False,1,False,0.8319747447967529
+escena_0012_n015.png,conteo_forma,15,How many squares are there in the image?,4,There are 16 squares in the image.,16,False,False,12,False,0.7339880466461182
+escena_0012_n015.png,conteo_color,15,How many light blue shapes are there in the image?,5,There are five light blue shapes in the image.,5,False,False,0,True,0.7371313571929932
+escena_0012_n015.png,conteo_combinado,15,How many orange circles are there in the image?,0,There are two orange circles in the image.,2,False,False,2,False,0.6982545852661133
+escena_0013_n015.png,conteo_general,15,How many shapes are there in total in the image?,15,There are a total of 15 shapes in the image.,15,False,False,0,True,0.7875981330871582
+escena_0013_n015.png,conteo_forma,15,How many circles are there in the image?,4,There are a total of 10 circles in the image.,10,False,False,6,False,0.8085761070251465
+escena_0013_n015.png,conteo_color,15,How many pink shapes are there in the image?,3,There are five pink shapes in the image.,5,False,False,2,False,0.710975170135498
+escena_0013_n015.png,conteo_combinado,15,How many blue diamonds are there in the image?,0,There are three blue diamonds in the image.,3,False,False,3,False,0.6916646957397461
+escena_0014_n015.png,conteo_general,15,How many shapes are there in total in the image?,15,"To determine the total number of shapes in the image, let's count each distinct shape individually.
+
+1. There are 10 shapes in total.
+2. The shapes include:
+   - 4 circles (yellow, blue, pink, and green)
+   - 4 triangles (yellow, blue, pink, and",1,False,False,14,False,2.772940158843994
+escena_0014_n015.png,conteo_forma,15,How many diamonds are there in the image?,2,There are a total of 10 diamonds in the image.,10,False,False,8,False,0.9576907157897949
+escena_0014_n015.png,conteo_color,15,How many orange shapes are there in the image?,3,There are six orange shapes in the image.,6,False,False,3,False,0.7079620361328125
+escena_0014_n015.png,conteo_combinado,15,How many orange diamonds are there in the image?,1,There are six orange diamonds in the image.,6,False,False,5,False,0.7012238502502441
+escena_0015_n020.png,conteo_general,20,How many shapes are there in total in the image?,20,There are a total of 25 shapes in the image.,25,False,False,5,False,0.8313534259796143
+escena_0015_n020.png,conteo_forma,20,How many squares are there in the image?,4,There are 15 squares in the image.,15,False,False,11,False,0.7409427165985107
+escena_0015_n020.png,conteo_color,20,How many purple shapes are there in the image?,3,There are four purple shapes in the image.,4,False,False,1,False,0.7057020664215088
+escena_0015_n020.png,conteo_combinado,20,How many yellow diamonds are there in the image?,0,There are six yellow diamonds in the image.,6,False,False,6,False,0.7110509872436523
+escena_0016_n020.png,conteo_general,20,How many shapes are there in total in the image?,20,There are a total of 20 shapes in the image.,20,False,False,0,True,0.8306789398193359
+escena_0016_n020.png,conteo_forma,20,How many diamonds are there in the image?,7,There are 10 diamonds in the image.,10,False,False,3,False,0.7481954097747803
+escena_0016_n020.png,conteo_color,20,How many green shapes are there in the image?,1,There are three green shapes in the image.,3,False,False,2,False,0.7083137035369873
+escena_0016_n020.png,conteo_combinado,20,How many green squares are there in the image?,0,There are three green squares in the image.,3,False,False,3,False,0.7049694061279297
+escena_0017_n020.png,conteo_general,20,How many shapes are there in total in the image?,20,There are a total of 20 shapes in the image.,20,False,False,0,True,0.8349630832672119
+escena_0017_n020.png,conteo_forma,20,How many diamonds are there in the image?,5,There are 10 diamonds in the image.,10,False,False,5,False,0.7538566589355469
+escena_0017_n020.png,conteo_color,20,How many yellow shapes are there in the image?,1,There are four yellow shapes in the image.,4,False,False,3,False,0.7435951232910156
+escena_0017_n020.png,conteo_combinado,20,How many red triangles are there in the image?,1,There are three red triangles in the image.,3,False,False,2,False,0.807476282119751
+escena_0018_n020.png,conteo_general,20,How many shapes are there in total in the image?,20,There are a total of 20 shapes in the image.,20,False,False,0,True,0.9801216125488281
+escena_0018_n020.png,conteo_forma,20,How many diamonds are there in the image?,4,There are a total of 10 diamonds in the image.,10,False,False,6,False,0.8598918914794922
+escena_0018_n020.png,conteo_color,20,How many red shapes are there in the image?,1,There are three red shapes in the image.,3,False,False,2,False,0.7279279232025146
+escena_0018_n020.png,conteo_combinado,20,How many purple diamonds are there in the image?,0,There are a total of 10 purple diamonds in the image.,10,False,False,10,False,0.8618385791778564
+escena_0019_n020.png,conteo_general,20,How many shapes are there in total in the image?,20,There are a total of 25 shapes in the image.,25,False,False,5,False,0.8248255252838135
+escena_0019_n020.png,conteo_forma,20,How many diamonds are there in the image?,8,There are 15 diamonds in the image.,15,False,False,7,False,0.7549505233764648
+escena_0019_n020.png,conteo_color,20,How many light blue shapes are there in the image?,3,There are five light blue shapes in the image.,5,False,False,2,False,1.021575927734375
+escena_0019_n020.png,conteo_combinado,20,How many purple squares are there in the image?,0,There are four purple squares in the image.,4,False,False,4,False,0.9495928287506104
+escena_0020_n025.png,conteo_general,25,How many shapes are there in total in the image?,25,There are a total of 25 shapes in the image.,25,False,False,0,True,1.1079082489013672
+escena_0020_n025.png,conteo_forma,25,How many diamonds are there in the image?,5,There are 10 diamonds in the image.,10,False,False,5,False,0.7712299823760986
+escena_0020_n025.png,conteo_color,25,How many orange shapes are there in the image?,6,There are six orange shapes in the image.,6,False,False,0,True,0.7171294689178467
+escena_0020_n025.png,conteo_combinado,25,How many pink squares are there in the image?,2,There are four pink squares in the image.,4,False,False,2,False,0.7215282917022705
+escena_0021_n025.png,conteo_general,25,How many shapes are there in total in the image?,25,There are a total of 24 shapes in the image.,24,False,False,1,False,0.8543295860290527
+escena_0021_n025.png,conteo_forma,25,How many triangles are there in the image?,5,There are a total of 15 triangles in the image.,15,False,False,10,False,0.9667081832885742
+escena_0021_n025.png,conteo_color,25,How many blue shapes are there in the image?,3,There are five blue shapes in the image.,5,False,False,2,False,0.8656737804412842
+escena_0021_n025.png,conteo_combinado,25,How many red diamonds are there in the image?,0,There are a total of 1 red diamond in the image.,1,False,False,1,False,0.9312610626220703
+escena_0022_n025.png,conteo_general,25,How many shapes are there in total in the image?,25,There are a total of 25 shapes in the image.,25,False,False,0,True,0.844804048538208
+escena_0022_n025.png,conteo_forma,25,How many squares are there in the image?,7,There are 15 squares in the image.,15,False,False,8,False,0.757746696472168
+escena_0022_n025.png,conteo_color,25,How many red shapes are there in the image?,3,There are three red shapes in the image.,3,False,False,0,True,0.7276880741119385
+escena_0022_n025.png,conteo_combinado,25,How many green triangles are there in the image?,1,There are three green triangles in the image.,3,False,False,2,False,0.7434995174407959
+escena_0023_n025.png,conteo_general,25,How many shapes are there in total in the image?,25,There are a total of 24 shapes in the image.,24,False,False,1,False,0.8548808097839355
+escena_0023_n025.png,conteo_forma,25,How many diamonds are there in the image?,9,There are 10 diamonds in the image.,10,False,False,1,False,0.7507579326629639
+escena_0023_n025.png,conteo_color,25,How many orange shapes are there in the image?,5,There are three orange shapes in the image.,3,False,False,2,False,0.7287395000457764
+escena_0023_n025.png,conteo_combinado,25,How many green triangles are there in the image?,0,There are three green triangles in the image.,3,False,False,3,False,0.736884355545044
+escena_0024_n025.png,conteo_general,25,How many shapes are there in total in the image?,25,There are a total of 25 shapes in the image.,25,False,False,0,True,0.8625667095184326
+escena_0024_n025.png,conteo_forma,25,How many circles are there in the image?,7,There are a total of 10 circles in the image.,10,False,False,3,False,0.8518221378326416
+escena_0024_n025.png,conteo_color,25,How many blue shapes are there in the image?,2,There are five blue shapes in the image.,5,False,False,3,False,0.7244653701782227
+escena_0024_n025.png,conteo_combinado,25,How many blue diamonds are there in the image?,0,There are a total of 10 blue diamonds in the image.,10,False,False,10,False,0.8796279430389404
+escena_0025_n030.png,conteo_general,30,How many shapes are there in total in the image?,30,There are a total of 25 shapes in the image.,25,False,False,5,False,0.9805178642272949
+escena_0025_n030.png,conteo_forma,30,How many triangles are there in the image?,3,There are a total of 10 triangles in the image.,10,False,False,7,False,1.012523889541626
+escena_0025_n030.png,conteo_color,30,How many red shapes are there in the image?,2,There are three red shapes in the image.,3,False,False,1,False,0.7514908313751221
+escena_0025_n030.png,conteo_combinado,30,How many green circles are there in the image?,1,There are three green circles in the image.,3,False,False,2,False,0.7350654602050781
+escena_0026_n030.png,conteo_general,30,How many shapes are there in total in the image?,30,There are 25 shapes in total in the image.,25,False,False,5,False,0.8253655433654785
+escena_0026_n030.png,conteo_forma,30,How many circles are there in the image?,5,There are a total of 16 circles in the image.,16,False,False,11,False,0.8493952751159668
+escena_0026_n030.png,conteo_color,30,How many yellow shapes are there in the image?,3,There are three yellow shapes in the image.,3,False,False,0,True,0.7448122501373291
+escena_0026_n030.png,conteo_combinado,30,How many orange diamonds are there in the image?,0,There are three orange diamonds in the image.,3,False,False,3,False,0.7375621795654297
+escena_0027_n030.png,conteo_general,30,How many shapes are there in total in the image?,30,There are a total of 25 shapes in the image.,25,False,False,5,False,0.860062837600708
+escena_0027_n030.png,conteo_forma,30,How many squares are there in the image?,8,There are 16 squares in the image.,16,False,False,8,False,0.7332360744476318
+escena_0027_n030.png,conteo_color,30,How many blue shapes are there in the image?,4,There are five blue shapes in the image.,5,False,False,1,False,0.7462770938873291
+escena_0027_n030.png,conteo_combinado,30,How many green diamonds are there in the image?,2,There are five green diamonds in the image.,5,False,False,3,False,0.7481842041015625
+escena_0028_n030.png,conteo_general,30,How many shapes are there in total in the image?,30,There are a total of 25 shapes in the image.,25,False,False,5,False,0.8577566146850586
+escena_0028_n030.png,conteo_forma,30,How many diamonds are there in the image?,9,There are 10 diamonds in the image.,10,False,False,1,False,0.7652807235717773
+escena_0028_n030.png,conteo_color,30,How many yellow shapes are there in the image?,1,There are three yellow shapes in the image.,3,False,False,2,False,0.7475919723510742
+escena_0028_n030.png,conteo_combinado,30,How many blue diamonds are there in the image?,2,There are 10 blue diamonds in the image.,10,False,False,8,False,0.912724494934082
+escena_0029_n030.png,conteo_general,30,How many shapes are there in total in the image?,30,There are a total of 24 shapes in the image.,24,False,False,6,False,1.0270276069641113
+escena_0029_n030.png,conteo_forma,30,How many diamonds are there in the image?,5,There are 10 diamonds in the image.,10,False,False,5,False,0.8047728538513184
+escena_0029_n030.png,conteo_color,30,How many blue shapes are there in the image?,1,There are three blue shapes in the image.,3,False,False,2,False,0.7496955394744873
+escena_0029_n030.png,conteo_combinado,30,How many yellow triangles are there in the image?,1,There are six yellow triangles in the image.,6,False,False,5,False,0.7468502521514893
+escena_0030_n035.png,conteo_general,35,How many shapes are there in total in the image?,35,There are a total of 25 shapes in the image.,25,False,False,10,False,0.8801476955413818
+escena_0030_n035.png,conteo_forma,35,How many squares are there in the image?,3,There are 15 squares in the image.,15,False,False,12,False,0.7788386344909668
+escena_0030_n035.png,conteo_color,35,How many yellow shapes are there in the image?,6,There are six yellow shapes in the image.,6,False,False,0,True,0.7463817596435547
+escena_0030_n035.png,conteo_combinado,35,How many red triangles are there in the image?,0,There are a total of 10 red triangles in the image.,10,False,False,10,False,0.907245397567749
+escena_0031_n035.png,conteo_general,35,How many shapes are there in total in the image?,35,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify all the shapes present in the image.
+2. Count each shape.
+
+Upon examining the image, we can see the following shapes:
+- 10 circles (blue, yellow, red, green,",1,False,False,34,False,2.411653757095337
+escena_0031_n035.png,conteo_forma,35,How many triangles are there in the image?,7,There are 15 triangles in the image.,15,False,False,8,False,0.7797760963439941
+escena_0031_n035.png,conteo_color,35,How many light blue shapes are there in the image?,7,"To determine the number of light blue shapes in the image, I will carefully observe the image and count the distinct light blue shapes.
+
+1. I start by looking for light blue shapes in the image.
+2. I identify the shapes that are distinct and not part of any other color.
+3. I count the number of",1,False,False,6,False,2.684770107269287
+escena_0031_n035.png,conteo_combinado,35,How many green triangles are there in the image?,0,"To determine the number of green triangles in the image, I will carefully observe the triangles and count the ones that are green.
+
+1. I start by looking for triangles that are not blue or red.
+2. I then look for triangles that are not yellow or pink.
+3. I continue this process until I find green",1,False,False,1,False,2.703772783279419
+escena_0032_n035.png,conteo_general,35,How many shapes are there in total in the image?,35,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, squares, and other polygons.
+2. Count each shape: 
+   - There are 15 triangles.
+   -",1,False,False,34,False,2.4210526943206787
+escena_0032_n035.png,conteo_forma,35,How many diamonds are there in the image?,8,There are 10 diamonds in the image.,10,False,False,2,False,0.800713300704956
+escena_0032_n035.png,conteo_color,35,How many purple shapes are there in the image?,6,There are six purple shapes in the image.,6,False,False,0,True,0.765869140625
+escena_0032_n035.png,conteo_combinado,35,How many purple squares are there in the image?,1,There are six purple squares in the image.,6,False,False,5,False,0.7618563175201416
+escena_0033_n035.png,conteo_general,35,How many shapes are there in total in the image?,35,There are a total of 25 shapes in the image.,25,False,False,10,False,0.8767688274383545
+escena_0033_n035.png,conteo_forma,35,How many diamonds are there in the image?,9,There are 10 diamonds in the image.,10,False,False,1,False,0.8010938167572021
+escena_0033_n035.png,conteo_color,35,How many green shapes are there in the image?,3,There are three green shapes in the image.,3,False,False,0,True,0.7678425312042236
+escena_0033_n035.png,conteo_combinado,35,How many blue diamonds are there in the image?,1,There are a total of 10 blue diamonds in the image.,10,False,False,9,False,0.9112756252288818
+escena_0034_n035.png,conteo_general,35,How many shapes are there in total in the image?,35,There are a total of 25 shapes in the image.,25,False,False,10,False,1.0184969902038574
+escena_0034_n035.png,conteo_forma,35,How many diamonds are there in the image?,10,There are 10 diamonds in the image.,10,False,False,0,True,0.8713514804840088
+escena_0034_n035.png,conteo_color,35,How many yellow shapes are there in the image?,2,There are six yellow shapes in the image.,6,False,False,4,False,0.896247148513794
+escena_0034_n035.png,conteo_combinado,35,How many pink squares are there in the image?,0,There are three pink squares in the image.,3,False,False,3,False,0.7909760475158691
+escena_0035_n040.png,conteo_general,40,How many shapes are there in total in the image?,40,There are a total of 25 shapes in the image.,25,False,False,15,False,0.9102077484130859
+escena_0035_n040.png,conteo_forma,40,How many diamonds are there in the image?,11,There are 10 diamonds in the image.,10,False,False,1,False,0.7938961982727051
+escena_0035_n040.png,conteo_color,40,How many purple shapes are there in the image?,4,There are four purple shapes in the image.,4,False,False,0,True,0.7684881687164307
+escena_0035_n040.png,conteo_combinado,40,How many blue triangles are there in the image?,2,There are three blue triangles in the image.,3,False,False,1,False,0.7752244472503662
+escena_0036_n040.png,conteo_general,40,How many shapes are there in total in the image?,40,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, and squares.
+2. Count each shape: 
+   - There are 15 triangles.
+   - There are",1,False,False,39,False,2.419449806213379
+escena_0036_n040.png,conteo_forma,40,How many circles are there in the image?,10,There are a total of 20 circles in the image.,20,False,False,10,False,0.8874688148498535
+escena_0036_n040.png,conteo_color,40,How many blue shapes are there in the image?,7,There are 3 blue shapes in the image.,3,False,False,4,False,0.8082904815673828
+escena_0036_n040.png,conteo_combinado,40,How many orange triangles are there in the image?,3,There are six orange triangles in the image.,6,False,False,3,False,0.7899925708770752
+escena_0037_n040.png,conteo_general,40,How many shapes are there in total in the image?,40,There are a total of 25 shapes in the image.,25,False,False,15,False,0.9364578723907471
+escena_0037_n040.png,conteo_forma,40,How many diamonds are there in the image?,10,There are 10 diamonds in the image.,10,False,False,0,True,0.9260239601135254
+escena_0037_n040.png,conteo_color,40,How many pink shapes are there in the image?,3,There are five pink shapes in the image.,5,False,False,2,False,0.8852431774139404
+escena_0037_n040.png,conteo_combinado,40,How many blue triangles are there in the image?,0,There are a total of 10 blue triangles in the image.,10,False,False,10,False,0.9483439922332764
+escena_0038_n040.png,conteo_general,40,How many shapes are there in total in the image?,40,There are a total of 25 shapes in the image.,25,False,False,15,False,0.9068541526794434
+escena_0038_n040.png,conteo_forma,40,How many triangles are there in the image?,12,There are 15 triangles in the image.,15,False,False,3,False,0.8209450244903564
+escena_0038_n040.png,conteo_color,40,How many blue shapes are there in the image?,4,There are a total of 10 blue shapes in the image.,10,False,False,6,False,0.940133810043335
+escena_0038_n040.png,conteo_combinado,40,How many green triangles are there in the image?,1,There are five green triangles in the image.,5,False,False,4,False,0.7910234928131104
+escena_0039_n040.png,conteo_general,40,How many shapes are there in total in the image?,40,There are a total of 25 shapes in the image.,25,False,False,15,False,0.9237122535705566
+escena_0039_n040.png,conteo_forma,40,How many circles are there in the image?,11,There are a total of 15 circles in the image.,15,False,False,4,False,0.9265086650848389
+escena_0039_n040.png,conteo_color,40,How many red shapes are there in the image?,6,There are six red shapes in the image.,6,False,False,0,True,0.7961101531982422
+escena_0039_n040.png,conteo_combinado,40,How many yellow diamonds are there in the image?,1,There are five yellow diamonds in the image.,5,False,False,4,False,0.7959322929382324
+escena_0040_n045.png,conteo_general,45,How many shapes are there in total in the image?,45,There are a total of 25 shapes in the image.,25,False,False,20,False,0.9108564853668213
+escena_0040_n045.png,conteo_forma,45,How many squares are there in the image?,11,There are 20 squares in the image.,20,False,False,9,False,0.8104166984558105
+escena_0040_n045.png,conteo_color,45,How many yellow shapes are there in the image?,6,There are six yellow shapes in the image.,6,False,False,0,True,0.8603451251983643
+escena_0040_n045.png,conteo_combinado,45,How many light blue squares are there in the image?,1,"In the image, there are 10 light blue squares.",10,False,False,9,False,1.0376965999603271
+escena_0041_n045.png,conteo_general,45,How many shapes are there in total in the image?,45,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: There are 15 distinct shapes in the image.
+2. Count each shape: 
+   - 10 triangles (blue, yellow, red, green, pink, blue,",1,False,False,44,False,2.629085063934326
+escena_0041_n045.png,conteo_forma,45,How many circles are there in the image?,9,There are 15 circles in the image.,15,False,False,6,False,0.7984132766723633
+escena_0041_n045.png,conteo_color,45,How many light blue shapes are there in the image?,13,There are 10 light blue shapes in the image.,10,False,False,3,False,0.8747003078460693
+escena_0041_n045.png,conteo_combinado,45,How many yellow triangles are there in the image?,1,There are five yellow triangles in the image.,5,False,False,4,False,0.7850587368011475
+escena_0042_n045.png,conteo_general,45,How many shapes are there in total in the image?,45,There are a total of 25 shapes in the image.,25,False,False,20,False,0.8881478309631348
+escena_0042_n045.png,conteo_forma,45,How many diamonds are there in the image?,6,There are 10 diamonds in the image.,10,False,False,4,False,0.8287334442138672
+escena_0042_n045.png,conteo_color,45,How many blue shapes are there in the image?,9,There are 10 blue shapes in the image.,10,False,False,1,False,0.8396666049957275
+escena_0042_n045.png,conteo_combinado,45,How many orange diamonds are there in the image?,0,There are six orange diamonds in the image.,6,False,False,6,False,0.7742531299591064
+escena_0043_n045.png,conteo_general,45,How many shapes are there in total in the image?,45,There are a total of 25 shapes in the image.,25,False,False,20,False,0.9283919334411621
+escena_0043_n045.png,conteo_forma,45,How many squares are there in the image?,9,There are 16 squares in the image.,16,False,False,7,False,0.810779333114624
+escena_0043_n045.png,conteo_color,45,How many green shapes are there in the image?,9,There are four green shapes in the image.,4,False,False,5,False,0.7706596851348877
+escena_0043_n045.png,conteo_combinado,45,How many purple diamonds are there in the image?,0,There are six purple diamonds in the image.,6,False,False,6,False,0.8585944175720215
+escena_0044_n045.png,conteo_general,45,How many shapes are there in total in the image?,45,There are a total of 25 shapes in the image.,25,False,False,20,False,1.0364079475402832
+escena_0044_n045.png,conteo_forma,45,How many circles are there in the image?,11,There are a total of 16 circles in the image.,16,False,False,5,False,0.9215447902679443
+escena_0044_n045.png,conteo_color,45,How many light blue shapes are there in the image?,5,There are five light blue shapes in the image.,5,False,False,0,True,0.7963559627532959
+escena_0044_n045.png,conteo_combinado,45,How many blue circles are there in the image?,0,There are a total of 10 blue circles in the image.,10,False,False,10,False,0.9256002902984619
+escena_0045_n050.png,conteo_general,50,How many shapes are there in total in the image?,50,There are a total of 25 shapes in the image.,25,False,False,25,False,0.897667407989502
+escena_0045_n050.png,conteo_forma,50,How many circles are there in the image?,14,There are a total of 20 circles in the image.,20,False,False,6,False,0.8947329521179199
+escena_0045_n050.png,conteo_color,50,How many blue shapes are there in the image?,6,There are 10 blue shapes in the image.,10,False,False,4,False,0.8298351764678955
+escena_0045_n050.png,conteo_combinado,50,How many blue diamonds are there in the image?,1,There are 10 blue diamonds in the image.,10,False,False,9,False,0.8220279216766357
+escena_0046_n050.png,conteo_general,50,How many shapes are there in total in the image?,50,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, squares, and polygons.
+2. Count each shape: 
+   - Triangles: 10
+   - Squ",1,False,False,49,False,2.406013011932373
+escena_0046_n050.png,conteo_forma,50,How many circles are there in the image?,18,There are a total of 20 circles in the image.,20,False,False,2,False,0.9182229042053223
+escena_0046_n050.png,conteo_color,50,How many blue shapes are there in the image?,3,"To determine the number of blue shapes in the image, I will carefully observe the shapes and count them one by one.
+
+1. I start by looking for blue shapes in the image.
+2. I identify the blue shapes by their color and shape.
+3. I count the number of blue shapes I see.
+
+Upon close",1,False,False,2,False,2.885875701904297
+escena_0046_n050.png,conteo_combinado,50,How many orange circles are there in the image?,0,There are six orange circles in the image.,6,False,False,6,False,0.7762293815612793
+escena_0047_n050.png,conteo_general,50,How many shapes are there in total in the image?,50,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including squares, triangles, circles, and polygons.
+2. Count each shape: 
+   - Squares: 5 (pink, blue,",1,False,False,49,False,2.399974822998047
+escena_0047_n050.png,conteo_forma,50,How many circles are there in the image?,13,There are a total of 15 circles in the image.,15,False,False,2,False,0.8777649402618408
+escena_0047_n050.png,conteo_color,50,How many yellow shapes are there in the image?,11,"In the image, there are a total of 11 yellow shapes.",11,False,False,0,True,0.9375548362731934
+escena_0047_n050.png,conteo_combinado,50,How many blue triangles are there in the image?,3,There are a total of 10 blue triangles in the image.,10,False,False,7,False,0.9312112331390381
+escena_0048_n050.png,conteo_general,50,How many shapes are there in total in the image?,50,There are 25 shapes in total in the image.,25,False,False,25,False,0.8602173328399658
+escena_0048_n050.png,conteo_forma,50,How many squares are there in the image?,11,There are 20 squares in the image.,20,False,False,9,False,0.7869727611541748
+escena_0048_n050.png,conteo_color,50,How many blue shapes are there in the image?,8,There are 10 blue shapes in the image.,10,False,False,2,False,0.8146884441375732
+escena_0048_n050.png,conteo_combinado,50,How many purple diamonds are there in the image?,1,There are six purple diamonds in the image.,6,False,False,5,False,0.7528715133666992
+escena_0049_n050.png,conteo_general,50,How many shapes are there in total in the image?,50,There are a total of 25 shapes in the image.,25,False,False,25,False,0.8800013065338135
+escena_0049_n050.png,conteo_forma,50,How many triangles are there in the image?,12,There are 10 triangles in the image.,10,False,False,2,False,0.900850772857666
+escena_0049_n050.png,conteo_color,50,How many blue shapes are there in the image?,6,There are five blue shapes in the image.,5,False,False,1,False,0.854271411895752
+escena_0049_n050.png,conteo_combinado,50,How many orange diamonds are there in the image?,3,There are six orange diamonds in the image.,6,False,False,3,False,0.8791882991790771
+escena_0050_n055.png,conteo_general,55,How many shapes are there in total in the image?,55,There are a total of 25 shapes in the image.,25,False,False,30,False,0.876143217086792
+escena_0050_n055.png,conteo_forma,55,How many circles are there in the image?,17,There are a total of 25 circles in the image.,25,False,False,8,False,0.8797647953033447
+escena_0050_n055.png,conteo_color,55,How many orange shapes are there in the image?,7,There are six orange shapes in the image.,6,False,False,1,False,0.7673487663269043
+escena_0050_n055.png,conteo_combinado,55,How many yellow triangles are there in the image?,0,There are six yellow triangles in the image.,6,False,False,6,False,0.7767620086669922
+escena_0051_n055.png,conteo_general,55,How many shapes are there in total in the image?,55,There are a total of 25 shapes in the image.,25,False,False,30,False,0.8852622509002686
+escena_0051_n055.png,conteo_forma,55,How many circles are there in the image?,12,There are a total of 16 circles in the image.,16,False,False,4,False,0.8776910305023193
+escena_0051_n055.png,conteo_color,55,How many orange shapes are there in the image?,9,There are six orange shapes in the image.,6,False,False,3,False,0.7629053592681885
+escena_0051_n055.png,conteo_combinado,55,How many orange squares are there in the image?,4,There are 1 orange square in the image.,1,False,False,3,False,0.7970542907714844
+escena_0052_n055.png,conteo_general,55,How many shapes are there in total in the image?,55,There are a total of 25 shapes in the image.,25,False,False,30,False,0.8941359519958496
+escena_0052_n055.png,conteo_forma,55,How many squares are there in the image?,11,There are 15 squares in the image.,15,False,False,4,False,0.8087272644042969
+escena_0052_n055.png,conteo_color,55,How many blue shapes are there in the image?,6,There are 10 blue shapes in the image.,10,False,False,4,False,0.818798303604126
+escena_0052_n055.png,conteo_combinado,55,How many light blue circles are there in the image?,2,"In the image, there are a total of 11 light blue circles.",11,False,False,9,False,1.1203083992004395
+escena_0053_n055.png,conteo_general,55,How many shapes are there in total in the image?,55,There are a total of 25 shapes in the image.,25,False,False,30,False,1.0064287185668945
+escena_0053_n055.png,conteo_forma,55,How many squares are there in the image?,15,There are 15 squares in the image.,15,False,False,0,True,0.9261670112609863
+escena_0053_n055.png,conteo_color,55,How many pink shapes are there in the image?,10,There are five pink shapes in the image.,5,False,False,5,False,0.7735104560852051
+escena_0053_n055.png,conteo_combinado,55,How many pink diamonds are there in the image?,0,There are five pink diamonds in the image.,5,False,False,5,False,0.7651233673095703
+escena_0054_n055.png,conteo_general,55,How many shapes are there in total in the image?,55,There are a total of 25 shapes in the image.,25,False,False,30,False,0.899507999420166
+escena_0054_n055.png,conteo_forma,55,How many diamonds are there in the image?,11,There are 10 diamonds in the image.,10,False,False,1,False,0.8118903636932373
+escena_0054_n055.png,conteo_color,55,How many purple shapes are there in the image?,10,There are six purple shapes in the image.,6,False,False,4,False,0.7595136165618896
+escena_0054_n055.png,conteo_combinado,55,How many light blue circles are there in the image?,2,There are three light blue circles in the image.,3,False,False,1,False,0.78934645652771
+escena_0055_n060.png,conteo_general,60,How many shapes are there in total in the image?,60,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, squares, and polygons.
+2. Count each shape: 
+   - Triangles: 5 (top left, top",1,False,False,59,False,2.390784502029419
+escena_0055_n060.png,conteo_forma,60,How many diamonds are there in the image?,8,There are 10 diamonds in the image.,10,False,False,2,False,0.8070554733276367
+escena_0055_n060.png,conteo_color,60,How many light blue shapes are there in the image?,11,"In the image, there are 10 light blue shapes.",10,False,False,1,False,0.8916435241699219
+escena_0055_n060.png,conteo_combinado,60,How many light blue triangles are there in the image?,0,"In the image, there are a total of 10 light blue triangles.",10,False,False,10,False,1.0485455989837646
+escena_0056_n060.png,conteo_general,60,How many shapes are there in total in the image?,60,There are a total of 25 shapes in the image.,25,False,False,35,False,1.0056796073913574
+escena_0056_n060.png,conteo_forma,60,How many circles are there in the image?,16,There are a total of 20 circles in the image.,20,False,False,4,False,1.082859992980957
+escena_0056_n060.png,conteo_color,60,How many light blue shapes are there in the image?,7,There are 10 light blue shapes in the image.,10,False,False,3,False,0.8646061420440674
+escena_0056_n060.png,conteo_combinado,60,How many purple squares are there in the image?,1,There are four purple squares in the image.,4,False,False,3,False,0.7841129302978516
+escena_0057_n060.png,conteo_general,60,How many shapes are there in total in the image?,60,There are a total of 25 shapes in the image.,25,False,False,35,False,0.9100432395935059
+escena_0057_n060.png,conteo_forma,60,How many circles are there in the image?,20,There are a total of 24 circles in the image.,24,False,False,4,False,0.888178825378418
+escena_0057_n060.png,conteo_color,60,How many orange shapes are there in the image?,9,There are six orange shapes in the image.,6,False,False,3,False,0.7744817733764648
+escena_0057_n060.png,conteo_combinado,60,How many yellow triangles are there in the image?,2,"In the image, there are a total of 11 yellow triangles.",11,False,False,9,False,0.9561886787414551
+escena_0058_n060.png,conteo_general,60,How many shapes are there in total in the image?,60,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes such as circles, triangles, squares, and polygons.
+2. Count each shape: Count each shape individually and tally the number of each type of shape",1,False,False,59,False,2.4331607818603516
+escena_0058_n060.png,conteo_forma,60,How many diamonds are there in the image?,17,There are 10 diamonds in the image.,10,False,False,7,False,0.7956149578094482
+escena_0058_n060.png,conteo_color,60,How many blue shapes are there in the image?,7,There are 10 blue shapes in the image.,10,False,False,3,False,0.8377065658569336
+escena_0058_n060.png,conteo_combinado,60,How many purple squares are there in the image?,2,There are four purple squares in the image.,4,False,False,2,False,0.8451907634735107
+escena_0059_n060.png,conteo_general,60,How many shapes are there in total in the image?,60,There are 20 shapes in total in the image.,20,False,False,40,False,0.9826657772064209
+escena_0059_n060.png,conteo_forma,60,How many circles are there in the image?,16,There are a total of 25 circles in the image.,25,False,False,9,False,1.095656156539917
+escena_0059_n060.png,conteo_color,60,How many green shapes are there in the image?,7,There are four green shapes in the image.,4,False,False,3,False,0.7966892719268799
+escena_0059_n060.png,conteo_combinado,60,How many light blue circles are there in the image?,1,There are five light blue circles in the image.,5,False,False,4,False,0.8115699291229248
+escena_0060_n065.png,conteo_general,65,How many shapes are there in total in the image?,65,There are 25 shapes in total in the image.,25,False,False,40,False,0.8678581714630127
+escena_0060_n065.png,conteo_forma,65,How many triangles are there in the image?,8,There are 10 triangles in the image.,10,False,False,2,False,0.8052432537078857
+escena_0060_n065.png,conteo_color,65,How many yellow shapes are there in the image?,9,There are five yellow shapes in the image.,5,False,False,4,False,0.7698612213134766
+escena_0060_n065.png,conteo_combinado,65,How many yellow squares are there in the image?,1,There are 1 yellow square in the image.,1,False,False,0,True,0.8131988048553467
+escena_0061_n065.png,conteo_general,65,How many shapes are there in total in the image?,65,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are 20 distinct shapes in the image.
+2. Count each shape: There are 10 triangles, 10 squares, 10 circles, and 1",1,False,False,64,False,2.4187395572662354
+escena_0061_n065.png,conteo_forma,65,How many diamonds are there in the image?,18,There are 10 diamonds in the image.,10,False,False,8,False,0.7967929840087891
+escena_0061_n065.png,conteo_color,65,How many green shapes are there in the image?,6,"In the image, there are a total of 10 green shapes.",10,False,False,4,False,0.9497103691101074
+escena_0061_n065.png,conteo_combinado,65,How many red diamonds are there in the image?,2,"In the image, there are a total of 10 red diamonds.",10,False,False,8,False,1.0301170349121094
+escena_0062_n065.png,conteo_general,65,How many shapes are there in total in the image?,65,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including circles, triangles, squares, and polygons.
+2. Count each shape: 
+   - Circle: There are 15 circles in total",1,False,False,64,False,2.8801915645599365
+escena_0062_n065.png,conteo_forma,65,How many triangles are there in the image?,12,There are 20 triangles in the image.,20,False,False,8,False,0.7924747467041016
+escena_0062_n065.png,conteo_color,65,How many yellow shapes are there in the image?,9,"In the image, there are 1 yellow shape.",1,False,False,8,False,0.8210113048553467
+escena_0062_n065.png,conteo_combinado,65,How many yellow circles are there in the image?,3,"In the image, there are a total of 11 yellow circles.",11,False,False,8,False,0.9483413696289062
+escena_0063_n065.png,conteo_general,65,How many shapes are there in total in the image?,65,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are 20 distinct shapes in the image.
+2. Count each shape: There are 10 triangles, 10 squares, 10 circles, 10",1,False,False,64,False,2.4119579792022705
+escena_0063_n065.png,conteo_forma,65,How many squares are there in the image?,19,There are 20 squares in the image.,20,False,False,1,False,0.7959539890289307
+escena_0063_n065.png,conteo_color,65,How many purple shapes are there in the image?,6,There are six purple shapes in the image.,6,False,False,0,True,0.7719399929046631
+escena_0063_n065.png,conteo_combinado,65,How many purple circles are there in the image?,2,There are six purple circles in the image.,6,False,False,4,False,0.7783834934234619
+escena_0064_n065.png,conteo_general,65,How many shapes are there in total in the image?,65,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, squares, and other polygons.
+2. Count each shape: 
+   - Triangles: There are 15 triangles",1,False,False,64,False,2.612443208694458
+escena_0064_n065.png,conteo_forma,65,How many diamonds are there in the image?,10,There are 10 diamonds in the image.,10,False,False,0,True,0.9269325733184814
+escena_0064_n065.png,conteo_color,65,How many red shapes are there in the image?,12,"In the image, there are 10 red shapes.",10,False,False,2,False,0.9622931480407715
+escena_0064_n065.png,conteo_combinado,65,How many orange triangles are there in the image?,2,There are six orange triangles in the image.,6,False,False,4,False,0.7649762630462646
+escena_0065_n070.png,conteo_general,70,How many shapes are there in total in the image?,70,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are 20 distinct shapes in the image.
+2. Count each shape: 
+   - Triangles: 10
+   - Squares: 10",1,False,False,69,False,2.4067399501800537
+escena_0065_n070.png,conteo_forma,70,How many circles are there in the image?,17,There are a total of 15 circles in the image.,15,False,False,2,False,0.8673386573791504
+escena_0065_n070.png,conteo_color,70,How many orange shapes are there in the image?,3,There are six orange shapes in the image.,6,False,False,3,False,0.7766146659851074
+escena_0065_n070.png,conteo_combinado,70,How many light blue diamonds are there in the image?,3,"In the image, there are a total of 11 light blue diamonds.",11,False,False,8,False,0.9816598892211914
+escena_0066_n070.png,conteo_general,70,How many shapes are there in total in the image?,70,There are a total of 25 shapes in the image.,25,False,False,45,False,0.8961648941040039
+escena_0066_n070.png,conteo_forma,70,How many squares are there in the image?,20,The image contains a total of 25 squares.,25,False,False,5,False,0.8237547874450684
+escena_0066_n070.png,conteo_color,70,How many green shapes are there in the image?,10,"In the image, there are a total of 10 green shapes.",10,False,False,0,True,0.9488670825958252
+escena_0066_n070.png,conteo_combinado,70,How many light blue diamonds are there in the image?,3,"In the image, there are a total of 10 light blue diamonds.",10,False,False,7,False,0.9853494167327881
+escena_0067_n070.png,conteo_general,70,How many shapes are there in total in the image?,70,There are a total of 25 shapes in the image.,25,False,False,45,False,1.0194616317749023
+escena_0067_n070.png,conteo_forma,70,How many triangles are there in the image?,20,There are 25 triangles in the image.,25,False,False,5,False,0.9200646877288818
+escena_0067_n070.png,conteo_color,70,How many green shapes are there in the image?,9,There are three green shapes in the image.,3,False,False,6,False,0.8089072704315186
+escena_0067_n070.png,conteo_combinado,70,How many orange triangles are there in the image?,2,There are six orange triangles in the image.,6,False,False,4,False,0.7765207290649414
+escena_0068_n070.png,conteo_general,70,How many shapes are there in total in the image?,70,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as circles, triangles, squares, and polygons (triangles, squares, and rectangles).
+2. Count each shape: Count each individual shape in the image.",1,False,False,69,False,2.4260520935058594
+escena_0068_n070.png,conteo_forma,70,How many squares are there in the image?,19,There are 15 squares in the image.,15,False,False,4,False,0.7916698455810547
+escena_0068_n070.png,conteo_color,70,How many red shapes are there in the image?,10,"In the image, there are a total of 10 red shapes.",10,False,False,0,True,0.9599723815917969
+escena_0068_n070.png,conteo_combinado,70,How many red triangles are there in the image?,2,There are six red triangles in the image.,6,False,False,4,False,0.7713031768798828
+escena_0069_n070.png,conteo_general,70,How many shapes are there in total in the image?,70,There are a total of 25 shapes in the image.,25,False,False,45,False,0.8784937858581543
+escena_0069_n070.png,conteo_forma,70,How many circles are there in the image?,19,There are a total of 25 circles in the image.,25,False,False,6,False,0.8844125270843506
+escena_0069_n070.png,conteo_color,70,How many purple shapes are there in the image?,9,"In the image, there are six purple shapes.",6,False,False,3,False,0.7994859218597412
+escena_0069_n070.png,conteo_combinado,70,How many pink circles are there in the image?,3,There are five pink circles in the image.,5,False,False,2,False,0.7759108543395996
+escena_0070_n075.png,conteo_general,75,How many shapes are there in total in the image?,75,There are a total of 25 shapes in the image.,25,False,False,50,False,1.031381607055664
+escena_0070_n075.png,conteo_forma,75,How many squares are there in the image?,19,There are 15 squares in the image.,15,False,False,4,False,0.898090124130249
+escena_0070_n075.png,conteo_color,75,How many light blue shapes are there in the image?,9,"In the image, there are a total of 11 light blue shapes.",11,False,False,2,False,1.1625027656555176
+escena_0070_n075.png,conteo_combinado,75,How many purple squares are there in the image?,3,"In the image, there are a total of 16 purple squares.",16,False,False,13,False,0.958019495010376
+escena_0071_n075.png,conteo_general,75,How many shapes are there in total in the image?,75,There are a total of 25 shapes in the image.,25,False,False,50,False,0.8971109390258789
+escena_0071_n075.png,conteo_forma,75,How many triangles are there in the image?,23,There are 20 triangles in the image.,20,False,False,3,False,0.7999460697174072
+escena_0071_n075.png,conteo_color,75,How many orange shapes are there in the image?,8,There are six orange shapes in the image.,6,False,False,2,False,0.7642531394958496
+escena_0071_n075.png,conteo_combinado,75,How many yellow squares are there in the image?,0,"In the image, there are a total of 11 yellow squares.",11,False,False,11,False,0.9368197917938232
+escena_0072_n075.png,conteo_general,75,How many shapes are there in total in the image?,75,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and other polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts:",1,False,False,74,False,2.4103426933288574
+escena_0072_n075.png,conteo_forma,75,How many triangles are there in the image?,21,There are 20 triangles in the image.,20,False,False,1,False,0.7983889579772949
+escena_0072_n075.png,conteo_color,75,How many purple shapes are there in the image?,6,"In the image, there are a total of 16 shapes that are colored purple.",16,False,False,10,False,1.0408744812011719
+escena_0072_n075.png,conteo_combinado,75,How many blue diamonds are there in the image?,4,There are 10 blue diamonds in the image.,10,False,False,6,False,0.8257317543029785
+escena_0073_n075.png,conteo_general,75,How many shapes are there in total in the image?,75,There are a total of 25 shapes in the image.,25,False,False,50,False,1.016524314880371
+escena_0073_n075.png,conteo_forma,75,How many circles are there in the image?,24,There are 20 circles in the image.,20,False,False,4,False,0.9297947883605957
+escena_0073_n075.png,conteo_color,75,How many pink shapes are there in the image?,5,There are five pink shapes in the image.,5,False,False,0,True,0.8247654438018799
+escena_0073_n075.png,conteo_combinado,75,How many blue squares are there in the image?,0,There are 10 blue squares in the image.,10,False,False,10,False,0.8460187911987305
+escena_0074_n075.png,conteo_general,75,How many shapes are there in total in the image?,75,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each shape individually and count the total number of shapes.
+
+By counting each shape",1,False,False,74,False,2.433104991912842
+escena_0074_n075.png,conteo_forma,75,How many squares are there in the image?,23,The image contains a total of 20 squares.,20,False,False,3,False,0.8351345062255859
+escena_0074_n075.png,conteo_color,75,How many light blue shapes are there in the image?,9,"In the image, there are a total of 10 light blue shapes.",10,False,False,1,False,0.988039493560791
+escena_0074_n075.png,conteo_combinado,75,How many orange squares are there in the image?,1,There are six orange squares in the image.,6,False,False,5,False,0.7711081504821777
+escena_0075_n080.png,conteo_general,80,How many shapes are there in total in the image?,80,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are 20 distinct shapes in the image.
+2. Count each shape: There are 10 triangles, 10 squares, 10 circles, 10",1,False,False,79,False,2.4482004642486572
+escena_0075_n080.png,conteo_forma,80,How many triangles are there in the image?,26,There are 25 triangles in the image.,25,False,False,1,False,0.8089995384216309
+escena_0075_n080.png,conteo_color,80,How many pink shapes are there in the image?,11,"In the image, there are five pink shapes.",5,False,False,6,False,0.9155616760253906
+escena_0075_n080.png,conteo_combinado,80,How many yellow diamonds are there in the image?,3,There are six yellow diamonds in the image.,6,False,False,3,False,0.8500475883483887
+escena_0076_n080.png,conteo_general,80,How many shapes are there in total in the image?,80,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes, including triangles, circles, squares, and polygons.
+2. Count each shape: 
+   - Triangles: There are 11 triangles in",1,False,False,79,False,2.590031862258911
+escena_0076_n080.png,conteo_forma,80,How many triangles are there in the image?,27,There are 25 triangles in the image.,25,False,False,2,False,0.8056774139404297
+escena_0076_n080.png,conteo_color,80,How many orange shapes are there in the image?,12,There are six orange shapes in the image.,6,False,False,6,False,0.7647254467010498
+escena_0076_n080.png,conteo_combinado,80,How many red diamonds are there in the image?,3,There are six red diamonds in the image.,6,False,False,3,False,0.7630147933959961
+escena_0077_n080.png,conteo_general,80,How many shapes are there in total in the image?,80,There are a total of 25 shapes in the image.,25,False,False,55,False,0.8876509666442871
+escena_0077_n080.png,conteo_forma,80,How many squares are there in the image?,23,There are 15 squares in the image.,15,False,False,8,False,0.8194022178649902
+escena_0077_n080.png,conteo_color,80,How many orange shapes are there in the image?,9,There are six orange shapes in the image.,6,False,False,3,False,0.7768154144287109
+escena_0077_n080.png,conteo_combinado,80,How many light blue squares are there in the image?,2,"In the image, there are 10 light blue squares.",10,False,False,8,False,0.8881886005401611
+escena_0078_n080.png,conteo_general,80,How many shapes are there in total in the image?,80,"To determine the total number of shapes in the image, we need to count each individual shape present. The shapes include:
+
+1. Triangles (15)
+2. Squares (15)
+3. Rectangles (10)
+4. Circles (10)
+5. Other shapes (15)",1,False,False,79,False,4.537399530410767
+escena_0078_n080.png,conteo_forma,80,How many diamonds are there in the image?,17,There are 10 diamonds in the image.,10,False,False,7,False,1.648042917251587
+escena_0078_n080.png,conteo_color,80,How many blue shapes are there in the image?,7,"In the image, there are a total of 10 blue shapes.",10,False,False,3,False,1.6081397533416748
+escena_0078_n080.png,conteo_combinado,80,How many yellow circles are there in the image?,3,There are a total of 11 yellow circles in the image.,11,False,False,8,False,1.3555018901824951
+escena_0079_n080.png,conteo_general,80,How many shapes are there in total in the image?,80,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as circles, triangles, squares, and polygons (triangles, squares, and rectangles).
+2. Count each shape: Count each individual shape in the image.",1,False,False,79,False,2.4279744625091553
+escena_0079_n080.png,conteo_forma,80,How many circles are there in the image?,24,There are a total of 25 circles in the image.,25,False,False,1,False,0.8834483623504639
+escena_0079_n080.png,conteo_color,80,How many light blue shapes are there in the image?,5,"In the image, there are a total of 10 light blue shapes.",10,False,False,5,False,0.9775433540344238
+escena_0079_n080.png,conteo_combinado,80,How many purple triangles are there in the image?,2,"In the image, there are a total of 10 purple triangles.",10,False,False,8,False,0.942018985748291
+escena_0080_n085.png,conteo_general,85,How many shapes are there in total in the image?,85,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as circles, triangles, squares, and polygons (triangles, squares, and circles).
+2. Count each shape: Count each individual shape in the image.",1,False,False,84,False,2.754608154296875
+escena_0080_n085.png,conteo_forma,85,How many circles are there in the image?,24,There are a total of 20 circles in the image.,20,False,False,4,False,1.1038589477539062
+escena_0080_n085.png,conteo_color,85,How many purple shapes are there in the image?,11,"In the image, there are a total of 10 purple shapes.",10,False,False,1,False,0.9649553298950195
+escena_0080_n085.png,conteo_combinado,85,How many blue squares are there in the image?,2,"In the image, there are a total of 10 blue squares.",10,False,False,8,False,0.9677462577819824
+escena_0081_n085.png,conteo_general,85,How many shapes are there in total in the image?,85,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum the counts: Add up",1,False,False,84,False,2.4016406536102295
+escena_0081_n085.png,conteo_forma,85,How many circles are there in the image?,13,There are a total of 15 circles in the image.,15,False,False,2,False,0.8810508251190186
+escena_0081_n085.png,conteo_color,85,How many red shapes are there in the image?,12,"In the image, there are a total of 10 red shapes.",10,False,False,2,False,0.946643590927124
+escena_0081_n085.png,conteo_combinado,85,How many green triangles are there in the image?,2,"In the image, there are a total of 10 green triangles.",10,False,False,8,False,0.9606354236602783
+escena_0082_n085.png,conteo_general,85,How many shapes are there in total in the image?,85,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify all the shapes in the image.
+2. Count each shape.
+
+Upon close inspection, there are 25 distinct shapes in the image.",1,False,False,84,False,2.0697691440582275
+escena_0082_n085.png,conteo_forma,85,How many circles are there in the image?,17,There are a total of 15 circles in the image.,15,False,False,2,False,1.028125286102295
+escena_0082_n085.png,conteo_color,85,How many red shapes are there in the image?,9,"In the image, there are a total of 10 red shapes.",10,False,False,1,False,1.1133699417114258
+escena_0082_n085.png,conteo_combinado,85,How many red circles are there in the image?,1,There are three red circles in the image.,3,False,False,2,False,0.903968334197998
+escena_0083_n085.png,conteo_general,85,How many shapes are there in total in the image?,85,There are a total of 25 shapes in the image.,25,False,False,60,False,0.9061911106109619
+escena_0083_n085.png,conteo_forma,85,How many triangles are there in the image?,20,There are 20 triangles in the image.,20,False,False,0,True,0.8127951622009277
+escena_0083_n085.png,conteo_color,85,How many pink shapes are there in the image?,2,"In the image, there are five pink shapes.",5,False,False,3,False,0.81282639503479
+escena_0083_n085.png,conteo_combinado,85,How many purple diamonds are there in the image?,1,There are six purple diamonds in the image.,6,False,False,5,False,0.7852790355682373
+escena_0084_n085.png,conteo_general,85,How many shapes are there in total in the image?,85,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as circles, triangles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts: Add",1,False,False,84,False,2.426896333694458
+escena_0084_n085.png,conteo_forma,85,How many triangles are there in the image?,16,There are 15 triangles in the image.,15,False,False,1,False,0.812995433807373
+escena_0084_n085.png,conteo_color,85,How many pink shapes are there in the image?,10,"In the image, there are a total of 12 pink shapes.",12,False,False,2,False,0.9577846527099609
+escena_0084_n085.png,conteo_combinado,85,How many light blue diamonds are there in the image?,0,"In the image, there are 10 light blue diamonds.",10,False,False,10,False,0.9011352062225342
+escena_0085_n090.png,conteo_general,90,How many shapes are there in total in the image?,90,There are a total of 25 shapes in the image.,25,False,False,65,False,0.9050803184509277
+escena_0085_n090.png,conteo_forma,90,How many squares are there in the image?,27,There are 25 squares in the image.,25,False,False,2,False,0.9280366897583008
+escena_0085_n090.png,conteo_color,90,How many purple shapes are there in the image?,15,There are six purple shapes in the image.,6,False,False,9,False,0.8693678379058838
+escena_0085_n090.png,conteo_combinado,90,How many light blue squares are there in the image?,0,"In the image, there are 10 light blue squares.",10,False,False,10,False,1.065751075744629
+escena_0086_n090.png,conteo_general,90,How many shapes are there in total in the image?,90,There are a total of 25 shapes in the image.,25,False,False,65,False,0.9359269142150879
+escena_0086_n090.png,conteo_forma,90,How many squares are there in the image?,25,There are 25 squares in the image.,25,False,False,0,True,0.8012588024139404
+escena_0086_n090.png,conteo_color,90,How many red shapes are there in the image?,10,There are five red shapes in the image.,5,False,False,5,False,0.770388126373291
+escena_0086_n090.png,conteo_combinado,90,How many light blue triangles are there in the image?,7,"In the image, there are a total of 10 light blue triangles.",10,False,False,3,False,0.9724822044372559
+escena_0087_n090.png,conteo_general,90,How many shapes are there in total in the image?,90,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts: Add",1,False,False,89,False,2.413956642150879
+escena_0087_n090.png,conteo_forma,90,How many circles are there in the image?,26,"To determine the number of circles in the image, we need to count each distinct shape that is colored in circles. 
+
+1. Identify circles: There are circles of various colors scattered throughout the image.
+2. Count the circles: Count the circles that are distinct and not part of any other shapes.
+3. Sum the",1,False,False,25,False,2.4351675510406494
+escena_0087_n090.png,conteo_color,90,How many yellow shapes are there in the image?,12,"In the image, there are 1 yellow shape.",1,False,False,11,False,0.8427374362945557
+escena_0087_n090.png,conteo_combinado,90,How many red diamonds are there in the image?,1,"In the image, there are a total of 10 red diamonds.",10,False,False,9,False,1.1049299240112305
+escena_0088_n090.png,conteo_general,90,How many shapes are there in total in the image?,90,"To determine the total number of shapes in the image, we need to count each distinct shape present. 
+
+1. Identify the shapes: The image contains a variety of shapes such as circles, triangles, squares, and polygons.
+2. Count each shape: Count each shape individually and count the total number of shapes.
+
+By",1,False,False,89,False,2.8034942150115967
+escena_0088_n090.png,conteo_forma,90,How many triangles are there in the image?,20,There are 20 triangles in the image.,20,False,False,0,True,0.7963926792144775
+escena_0088_n090.png,conteo_color,90,How many yellow shapes are there in the image?,11,"In the image, there are a total of 12 yellow shapes.",12,False,False,1,False,0.9542627334594727
+escena_0088_n090.png,conteo_combinado,90,How many light blue diamonds are there in the image?,6,"In the image, there are a total of 10 light blue diamonds.",10,False,False,4,False,0.9786288738250732
+escena_0089_n090.png,conteo_general,90,How many shapes are there in total in the image?,90,There are 25 shapes in total in the image.,25,False,False,65,False,0.8505105972290039
+escena_0089_n090.png,conteo_forma,90,How many squares are there in the image?,27,"To determine the number of squares in the image, we need to count each individual square. 
+
+1. The image contains a total of 20 squares.
+2. Each square is represented by a distinct color.
+3. There are no other shapes or objects within the squares, so we can exclude them from the count",1,False,False,26,False,2.4289262294769287
+escena_0089_n090.png,conteo_color,90,How many orange shapes are there in the image?,12,There are 10 orange shapes in the image.,10,False,False,2,False,0.835425615310669
+escena_0089_n090.png,conteo_combinado,90,How many red triangles are there in the image?,3,"In the image, there are a total of 10 red triangles.",10,False,False,7,False,0.9707150459289551
+escena_0090_n095.png,conteo_general,95,How many shapes are there in total in the image?,95,There are a total of 100 shapes in the image.,100,False,False,5,False,0.9160704612731934
+escena_0090_n095.png,conteo_forma,95,How many triangles are there in the image?,24,There are 20 triangles in the image.,20,False,False,4,False,0.8932902812957764
+escena_0090_n095.png,conteo_color,95,How many yellow shapes are there in the image?,15,"In the image, there are a total of 11 yellow shapes.",11,False,False,4,False,1.1289443969726562
+escena_0090_n095.png,conteo_combinado,95,How many yellow triangles are there in the image?,6,"In the image, there are a total of 11 yellow triangles.",11,False,False,5,False,0.974947452545166
+escena_0091_n095.png,conteo_general,95,How many shapes are there in total in the image?,95,There are a total of 200 shapes in the image.,200,False,False,105,False,0.9242441654205322
+escena_0091_n095.png,conteo_forma,95,How many diamonds are there in the image?,21,There are 10 diamonds in the image.,10,False,False,11,False,0.8132178783416748
+escena_0091_n095.png,conteo_color,95,How many orange shapes are there in the image?,13,There are six orange shapes in the image.,6,False,False,7,False,0.7631707191467285
+escena_0091_n095.png,conteo_combinado,95,How many red circles are there in the image?,7,There are a total of 10 red circles in the image.,10,False,False,3,False,0.9185163974761963
+escena_0092_n095.png,conteo_general,95,How many shapes are there in total in the image?,95,There are a total of 25 shapes in the image.,25,False,False,70,False,0.8877060413360596
+escena_0092_n095.png,conteo_forma,95,How many triangles are there in the image?,20,There are 25 triangles in the image.,25,False,False,5,False,0.8033034801483154
+escena_0092_n095.png,conteo_color,95,How many green shapes are there in the image?,9,"In the image, there are 1 green shape.",1,False,False,8,False,0.8436613082885742
+escena_0092_n095.png,conteo_combinado,95,How many yellow squares are there in the image?,2,"In the image, there are a total of 11 yellow squares.",11,False,False,9,False,0.9625658988952637
+escena_0093_n095.png,conteo_general,95,How many shapes are there in total in the image?,95,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts: Add",1,False,False,94,False,2.4369328022003174
+escena_0093_n095.png,conteo_forma,95,How many circles are there in the image?,26,There are a total of 20 circles in the image.,20,False,False,6,False,1.0172669887542725
+escena_0093_n095.png,conteo_color,95,How many purple shapes are there in the image?,20,"In the image, there are a total of 16 purple shapes.",16,False,False,4,False,1.1617066860198975
+escena_0093_n095.png,conteo_combinado,95,How many pink diamonds are there in the image?,2,"In the image, there are a total of 10 pink diamonds.",10,False,False,8,False,0.9506800174713135
+escena_0094_n095.png,conteo_general,95,How many shapes are there in total in the image?,95,There are a total of 25 shapes in the image.,25,False,False,70,False,0.8874719142913818
+escena_0094_n095.png,conteo_forma,95,How many squares are there in the image?,16,There are 20 squares in the image.,20,False,False,4,False,1.0242602825164795
+escena_0094_n095.png,conteo_color,95,How many green shapes are there in the image?,8,"In the image, there are three green shapes.",3,False,False,5,False,0.8995048999786377
+escena_0094_n095.png,conteo_combinado,95,How many orange circles are there in the image?,3,There are six orange circles in the image.,6,False,False,3,False,0.8393659591674805
+escena_0095_n100.png,conteo_general,100,How many shapes are there in total in the image?,100,There are a total of 200 shapes in the image.,200,False,False,100,False,0.9306530952453613
+escena_0095_n100.png,conteo_forma,100,How many squares are there in the image?,24,There are 20 squares in the image.,20,False,False,4,False,0.8056714534759521
+escena_0095_n100.png,conteo_color,100,How many pink shapes are there in the image?,20,There are 10 pink shapes in the image.,10,False,False,10,False,0.8222322463989258
+escena_0095_n100.png,conteo_combinado,100,How many red diamonds are there in the image?,4,There are six red diamonds in the image.,6,False,False,2,False,0.7674458026885986
+escena_0096_n100.png,conteo_general,100,How many shapes are there in total in the image?,100,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts: Add",1,False,False,99,False,2.579331874847412
+escena_0096_n100.png,conteo_forma,100,How many diamonds are there in the image?,31,There are 10 diamonds in the image.,10,False,False,21,False,0.8819224834442139
+escena_0096_n100.png,conteo_color,100,How many pink shapes are there in the image?,12,"In the image, there are five pink shapes.",5,False,False,7,False,0.9455995559692383
+escena_0096_n100.png,conteo_combinado,100,How many green squares are there in the image?,3,"In the image, there are a total of 10 green squares.",10,False,False,7,False,0.9528391361236572
+escena_0097_n100.png,conteo_general,100,How many shapes are there in total in the image?,100,There are a total of 15 shapes in the image.,15,False,False,85,False,0.8959765434265137
+escena_0097_n100.png,conteo_forma,100,How many squares are there in the image?,31,There are 15 squares in the image.,15,False,False,16,False,0.8147048950195312
+escena_0097_n100.png,conteo_color,100,How many yellow shapes are there in the image?,11,There are six yellow shapes in the image.,6,False,False,5,False,0.773470401763916
+escena_0097_n100.png,conteo_combinado,100,How many red circles are there in the image?,0,There are a total of 11 red circles in the image.,11,False,False,11,False,0.9229154586791992
+escena_0098_n100.png,conteo_general,100,How many shapes are there in total in the image?,100,There are a total of 25 shapes in the image.,25,False,False,75,False,0.8956243991851807
+escena_0098_n100.png,conteo_forma,100,How many triangles are there in the image?,21,There are 20 triangles in the image.,20,False,False,1,False,0.8167686462402344
+escena_0098_n100.png,conteo_color,100,How many yellow shapes are there in the image?,12,"In the image, there are a total of 11 yellow shapes.",11,False,False,1,False,0.9558432102203369
+escena_0098_n100.png,conteo_combinado,100,How many red triangles are there in the image?,2,"In the image, there are a total of 10 red triangles.",10,False,False,8,False,0.9557197093963623
+escena_0099_n100.png,conteo_general,100,How many shapes are there in total in the image?,100,"To determine the total number of shapes in the image, we need to count each individual shape present. 
+
+1. Identify the shapes: There are various shapes such as triangles, circles, squares, and polygons.
+2. Count each shape: Count each individual shape in the image.
+3. Sum up the counts: Add",1,False,False,99,False,2.6808900833129883
+escena_0099_n100.png,conteo_forma,100,How many diamonds are there in the image?,24,There are 10 diamonds in the image.,10,False,False,14,False,0.9313361644744873
+escena_0099_n100.png,conteo_color,100,How many light blue shapes are there in the image?,11,"In the image, there are 10 light blue shapes.",10,False,False,1,False,0.9151382446289062
+escena_0099_n100.png,conteo_combinado,100,How many yellow circles are there in the image?,3,"In the image, there are a total of 11 yellow circles.",11,False,False,8,False,0.9549956321716309

@@ -1,0 +1,42 @@
+BENCHMARK: 2Dsintetico
+MODELO: vikhyatk/moondream2 (revision=2025-06-21)
+FECHA: 2026-09-15T03:17:20.523046
+N_TOTAL: 400
+SEMILLA: 42
+--------------------------------------------------
+TIMEOUT_RATE: 0.0000
+PARSE_FAIL_RATE: 0.0000
+ACCURACY_GLOBAL: 0.1375
+MAE_GLOBAL: 12.2675
+TIEMPO_MEDIO_SEG: 5.0194
+VRAM_PICO_MB: 5032.04
+RAM_PICO_MB: 2160.60
+--------------------------------------------------
+DESGLOSE_POR_TIPO_PREGUNTA
+  conteo_color: n=100 accuracy=0.2400 mae=2.8000
+  conteo_combinado: n=100 accuracy=0.1500 mae=1.6800
+  conteo_forma: n=100 accuracy=0.1100 mae=7.7100
+  conteo_general: n=100 accuracy=0.0500 mae=36.8800
+--------------------------------------------------
+DESGLOSE_POR_NUM_SHAPES
+  num_shapes=5: n=20 accuracy=0.6000 mae=0.5000
+  num_shapes=10: n=20 accuracy=0.6000 mae=0.5000
+  num_shapes=15: n=20 accuracy=0.1000 mae=1.1500
+  num_shapes=20: n=20 accuracy=0.1500 mae=2.7500
+  num_shapes=25: n=20 accuracy=0.2000 mae=4.1000
+  num_shapes=30: n=20 accuracy=0.2000 mae=5.1000
+  num_shapes=35: n=20 accuracy=0.0500 mae=7.1000
+  num_shapes=40: n=20 accuracy=0.0500 mae=8.8000
+  num_shapes=45: n=20 accuracy=0.0000 mae=10.1000
+  num_shapes=50: n=20 accuracy=0.1500 mae=11.7000
+  num_shapes=55: n=20 accuracy=0.1000 mae=13.3000
+  num_shapes=60: n=20 accuracy=0.0500 mae=14.9000
+  num_shapes=65: n=20 accuracy=0.1000 mae=15.2000
+  num_shapes=70: n=20 accuracy=0.1500 mae=16.6500
+  num_shapes=75: n=20 accuracy=0.0500 mae=18.8000
+  num_shapes=80: n=20 accuracy=0.1000 mae=19.9000
+  num_shapes=85: n=20 accuracy=0.0000 mae=20.4500
+  num_shapes=90: n=20 accuracy=0.0000 mae=24.9500
+  num_shapes=95: n=20 accuracy=0.1000 mae=23.0500
+  num_shapes=100: n=20 accuracy=0.0000 mae=26.3500
+--------------------------------------------------

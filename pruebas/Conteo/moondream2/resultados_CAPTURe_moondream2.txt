@@ -1,0 +1,256 @@
+BENCHMARK: CAPTURe
+MODELO: vikhyatk/moondream2 (revision=2025-06-21)
+FECHA: 2026-09-13T21:23:14.439720
+MUESTRA_REAL: 100/824
+MUESTRA_SINTETICA: 100/1150
+SEMILLA: 42
+--------------------------------------------------
+VRAM_PICO_MB: 5118.92
+RAM_PICO_MB: 2510.01
+--------------------------------------------------
+[REAL]
+  N: 100
+  TIMEOUT_RATE: 0.0000
+  PARSE_FAIL_RATE: 0.0500
+  ACCURACY_EXACTA: 0.0526
+  MAE: 51.0000
+  VARIANZA_ERROR: 7529.7234
+  TIEMPO_MEDIO_SEG: 4.6116
+--------------------------------------------------
+[SINTETICO]
+  N: 100
+  TIMEOUT_RATE: 0.0000
+  PARSE_FAIL_RATE: 0.3900
+  ACCURACY_EXACTA: 0.1803
+  MAE: 3.2623
+  VARIANZA_ERROR: 13.8967
+  TIEMPO_MEDIO_SEG: 2.1568
+--------------------------------------------------
+DESGLOSE_REAL_POR_BUCKET_MAGNITUD
+  8-15: n=20 accuracy=0.2500 mae=2.0500
+  16-28: n=26 accuracy=0.0000 mae=8.1538
+  29-67: n=20 accuracy=0.0000 mae=22.7000
+  68-907: n=29 accuracy=0.0000 mae=142.6897
+--------------------------------------------------
+DESGLOSE_SINTETICO_POR_VALOR_EXACTO
+  GT=5: n=7 accuracy=0.4286 mae=0.8571
+  GT=6: n=11 accuracy=0.2727 mae=1.1818
+  GT=7: n=9 accuracy=0.3333 mae=0.8889
+  GT=8: n=7 accuracy=0.1429 mae=2.1429
+  GT=9: n=7 accuracy=0.1429 mae=3.5714
+  GT=10: n=8 accuracy=0.0000 mae=4.3750
+  GT=11: n=1 accuracy=0.0000 mae=4.0000
+  GT=12: n=6 accuracy=0.0000 mae=5.5000
+  GT=15: n=5 accuracy=0.0000 mae=12.0000
+--------------------------------------------------
+DESGLOSE_SINTETICO_POR_NUM_OCCLUDED
+  num_occluded=1: n=33 accuracy=0.3333 mae=1.0000
+  num_occluded=2: n=6 accuracy=0.0000 mae=6.6667
+  num_occluded=3: n=13 accuracy=0.0000 mae=3.6923
+  num_occluded=4: n=3 accuracy=0.0000 mae=7.6667
+  num_occluded=5: n=2 accuracy=0.0000 mae=8.0000
+  num_occluded=6: n=2 accuracy=0.0000 mae=12.0000
+  num_occluded=9: n=1 accuracy=0.0000 mae=3.0000
+  num_occluded=10: n=1 accuracy=0.0000 mae=12.0000
+--------------------------------------------------
+DETALLE_POR_PREGUNTA (subset | categoria | num_occluded | ground_truth | prediccion | parse_fail | timeout | error_abs | tiempo_seg)
+  real | oranges | nan | 437 | 1.0 | False | False | 436.0 | 5.223
+  sintetico | green_circle | 1.0 | 8 | 9.0 | False | False | 1.0 | 1.651
+  sintetico | red_square | 2.0 | 12 | nan | True | False | nan | 1.896
+  sintetico | purple_circle | 1.0 | 10 | 9.0 | False | False | 1.0 | 2.018
+  sintetico | blue_circle | 3.0 | 15 | nan | True | False | nan | 2.043
+  sintetico | red_circle | 1.0 | 10 | 9.0 | False | False | 1.0 | 2.019
+  real | sunglasses | nan | 198 | 100.0 | False | False | 98.0 | 4.703
+  real | cups | nan | 38 | 15.0 | False | False | 23.0 | 3.660
+  real | mosaic tiles | nan | 18 | 9.0 | False | False | 9.0 | 3.955
+  real | cupcake tray | nan | 12 | 12.0 | False | False | 0.0 | 3.972
+  sintetico | red_square | 6.0 | 15 | 3.0 | False | False | 12.0 | 2.181
+  sintetico | blue_circle | 1.0 | 5 | 3.0 | False | False | 2.0 | 2.159
+  sintetico | blue_square | 6.0 | 15 | 3.0 | False | False | 12.0 | 2.045
+  real | sunglasses | nan | 27 | 12.0 | False | False | 15.0 | 4.021
+  sintetico | purple_circle | 3.0 | 14 | nan | True | False | nan | 1.920
+  sintetico | purple_square | 1.0 | 6 | 5.0 | False | False | 1.0 | 1.721
+  real | roof tiles | nan | 134 | 24.0 | False | False | 110.0 | 4.027
+  sintetico | blue_circle | 3.0 | 14 | nan | True | False | nan | 2.903
+  real | cupcake tray | nan | 12 | 9.0 | False | False | 3.0 | 4.188
+  real | finger foods | nan | 21 | 18.0 | False | False | 3.0 | 4.159
+  sintetico | orange_circle | 5.0 | 15 | 3.0 | False | False | 12.0 | 2.171
+  real | mini blinds | nan | 25 | 12.0 | False | False | 13.0 | 3.868
+  real | toilet paper rolls | nan | 10 | 8.0 | False | False | 2.0 | 3.879
+  sintetico | green_circle | 5.0 | 13 | nan | True | False | nan | 2.218
+  sintetico | red_circle | 3.0 | 7 | 6.0 | False | False | 1.0 | 2.229
+  sintetico | red_square | 3.0 | 12 | nan | True | False | nan | 2.088
+  real | flower pots | nan | 49 | 18.0 | False | False | 31.0 | 4.252
+  sintetico | purple_circle | 3.0 | 11 | nan | True | False | nan | 2.019
+  real | cupcake tray | nan | 8 | 9.0 | False | False | 1.0 | 4.268
+  sintetico | green_circle | 5.0 | 10 | nan | True | False | nan | 2.207
+  real | bricks | nan | 169 | 24.0 | False | False | 145.0 | 4.202
+  sintetico | red_square | 5.0 | 11 | nan | True | False | nan | 2.125
+  real | marbles | nan | 9 | 9.0 | False | False | 0.0 | 4.019
+  real | bricks | nan | 68 | 9.0 | False | False | 59.0 | 4.038
+  sintetico | red_circle | 1.0 | 5 | 5.0 | False | False | 0.0 | 1.853
+  real | bricks | nan | 69 | 9.0 | False | False | 60.0 | 4.046
+  real | apples | nan | 24 | 15.0 | False | False | 9.0 | 4.076
+  sintetico | blue_square | 2.0 | 12 | 3.0 | False | False | 9.0 | 2.203
+  real | finger foods | nan | 30 | 12.0 | False | False | 18.0 | 4.081
+  sintetico | orange_square | 3.0 | 12 | nan | True | False | nan | 2.227
+  sintetico | red_circle | 1.0 | 8 | 2.0 | False | False | 6.0 | 2.492
+  real | plates | nan | 59 | 18.0 | False | False | 41.0 | 4.440
+  real | watches | nan | 111 | 1.0 | False | False | 110.0 | 4.247
+  sintetico | red_circle | 5.0 | 13 | nan | True | False | nan | 2.416
+  sintetico | green_circle | 2.0 | 10 | 2.0 | False | False | 8.0 | 2.278
+  real | cupcake tray | nan | 12 | 9.0 | False | False | 3.0 | 4.484
+  sintetico | red_square | 4.0 | 10 | 2.0 | False | False | 8.0 | 2.210
+  sintetico | green_circle | 3.0 | 13 | nan | True | False | nan | 2.213
+  real | bread rolls | nan | 24 | 18.0 | False | False | 6.0 | 4.490
+  sintetico | orange_square | 1.0 | 7 | 7.0 | False | False | 0.0 | 1.923
+  sintetico | red_circle | 1.0 | 6 | 2.0 | False | False | 4.0 | 2.202
+  real | keyboard keys | nan | 102 | 19.0 | False | False | 83.0 | 4.779
+  sintetico | blue_square | 1.0 | 7 | 7.0 | False | False | 0.0 | 1.898
+  sintetico | red_square | 3.0 | 9 | 8.0 | False | False | 1.0 | 2.191
+  real | roof tiles | nan | 16 | 8.0 | False | False | 8.0 | 4.088
+  real | windows | nan | 171 | 36.0 | False | False | 135.0 | 4.322
+  sintetico | orange_square | 3.0 | 12 | 9.0 | False | False | 3.0 | 2.179
+  sintetico | red_square | 1.0 | 7 | 6.0 | False | False | 1.0 | 2.187
+  real | balls | nan | 169 | 18.0 | False | False | 151.0 | 4.369
+  real | roof tiles | nan | 27 | 10.0 | False | False | 17.0 | 4.074
+  sintetico | green_circle | 2.0 | 9 | 1.0 | False | False | 8.0 | 2.389
+  real | cupcake tray | nan | 8 | 6.0 | False | False | 2.0 | 4.703
+  sintetico | green_circle | 1.0 | 6 | 5.0 | False | False | 1.0 | 2.188
+  sintetico | red_square | 10.0 | 15 | 3.0 | False | False | 12.0 | 2.340
+  sintetico | red_circle | 3.0 | 10 | 3.0 | False | False | 7.0 | 2.244
+  real | cupcake tray | nan | 9 | 9.0 | False | False | 0.0 | 4.386
+  sintetico | green_circle | 2.0 | 9 | 1.0 | False | False | 8.0 | 2.335
+  real | tomatoes | nan | 18 | 12.0 | False | False | 6.0 | 4.089
+  real | spoon | nan | 36 | 18.0 | False | False | 18.0 | 4.425
+  sintetico | blue_square | 3.0 | 6 | 3.0 | False | False | 3.0 | 2.274
+  sintetico | red_circle | 1.0 | 5 | 3.0 | False | False | 2.0 | 2.210
+  sintetico | red_circle | 1.0 | 6 | 5.0 | False | False | 1.0 | 1.901
+  real | gemstones | nan | 12 | 10.0 | False | False | 2.0 | 4.120
+  real | candles | nan | 20 | 18.0 | False | False | 2.0 | 4.098
+  sintetico | orange_square | 4.0 | 12 | 9.0 | False | False | 3.0 | 1.895
+  real | cupcake tray | nan | 12 | 10.0 | False | False | 2.0 | 4.111
+  sintetico | blue_square | 3.0 | 11 | nan | True | False | nan | 2.198
+  real | mosaic tiles | nan | 144 | 19.0 | False | False | 125.0 | 4.417
+  real | bread rolls | nan | 12 | 10.0 | False | False | 2.0 | 4.427
+  sintetico | purple_circle | 3.0 | 13 | nan | True | False | nan | 2.159
+  real | cups | nan | 22 | 14.0 | False | False | 8.0 | 4.103
+  sintetico | orange_square | 1.0 | 6 | 6.0 | False | False | 0.0 | 1.892
+  sintetico | orange_square | 1.0 | 8 | 7.0 | False | False | 1.0 | 1.888
+  sintetico | blue_square | 4.0 | 15 | 3.0 | False | False | 12.0 | 2.300
+  sintetico | blue_circle | 3.0 | 14 | nan | True | False | nan | 2.311
+  real | chairs | nan | 131 | nan | True | False | nan | 5.109
+  real | keyboard keys | nan | 104 | nan | True | False | nan | 5.606
+  sintetico | orange_square | 3.0 | 15 | nan | True | False | nan | 2.430
+  sintetico | purple_square | 3.0 | 14 | nan | True | False | nan | 2.098
+  sintetico | orange_circle | 3.0 | 9 | 8.0 | False | False | 1.0 | 2.186
+  real | keyboard keys | nan | 78 | 19.0 | False | False | 59.0 | 4.739
+  real | flower pots | nan | 68 | nan | True | False | nan | 5.232
+  sintetico | red_circle | 1.0 | 7 | 6.0 | False | False | 1.0 | 2.273
+  sintetico | orange_circle | 1.0 | 6 | 5.0 | False | False | 1.0 | 2.150
+  sintetico | blue_circle | 3.0 | 10 | 2.0 | False | False | 8.0 | 2.292
+  real | donuts tray | nan | 12 | 9.0 | False | False | 3.0 | 4.419
+  real | candles | nan | 17 | 15.0 | False | False | 2.0 | 4.397
+  sintetico | orange_square | 1.0 | 7 | 6.0 | False | False | 1.0 | 2.183
+  sintetico | green_square | 3.0 | 14 | nan | True | False | nan | 2.278
+  real | keyboard keys | nan | 108 | 9.0 | False | False | 99.0 | 4.737
+  sintetico | orange_circle | 3.0 | 12 | 3.0 | False | False | 9.0 | 2.302
+  real | beads | nan | 115 | 9.0 | False | False | 106.0 | 4.401
+  real | mini blinds | nan | 10 | 6.0 | False | False | 4.0 | 4.409
+  sintetico | purple_circle | 1.0 | 7 | 7.0 | False | False | 0.0 | 2.181
+  real | jade stones | nan | 27 | 10.0 | False | False | 17.0 | 4.387
+  real | beads | nan | 49 | 10.0 | False | False | 39.0 | 4.083
+  sintetico | green_square | 1.0 | 5 | 4.0 | False | False | 1.0 | 1.888
+  sintetico | blue_circle | 7.0 | 10 | nan | True | False | nan | 2.242
+  sintetico | red_square | 3.0 | 13 | nan | True | False | nan | 2.093
+  sintetico | purple_circle | 5.0 | 11 | 7.0 | False | False | 4.0 | 2.120
+  sintetico | red_circle | 3.0 | 12 | nan | True | False | nan | 2.292
+  sintetico | orange_circle | 3.0 | 13 | nan | True | False | nan | 2.158
+  real | candles | nan | 39 | 24.0 | False | False | 15.0 | 4.284
+  real | cups | nan | 17 | 10.0 | False | False | 7.0 | 4.096
+  sintetico | orange_square | 3.0 | 12 | nan | True | False | nan | 2.348
+  sintetico | purple_square | 3.0 | 10 | 9.0 | False | False | 1.0 | 2.178
+  sintetico | blue_square | 3.0 | 14 | nan | True | False | nan | 2.280
+  sintetico | purple_square | 9.0 | 12 | 9.0 | False | False | 3.0 | 1.888
+  sintetico | orange_square | 1.0 | 6 | 5.0 | False | False | 1.0 | 1.886
+  real | mosaic tiles | nan | 150 | 24.0 | False | False | 126.0 | 4.571
+  real | cars | nan | 73 | 30.0 | False | False | 43.0 | 4.313
+  real | sunglasses | nan | 81 | 0.0 | False | False | 81.0 | 4.083
+  real | shirts | nan | 186 | 24.0 | False | False | 162.0 | 4.077
+  real | toilet paper rolls | nan | 33 | 15.0 | False | False | 18.0 | 4.341
+  sintetico | blue_circle | 2.0 | 12 | 6.0 | False | False | 6.0 | 2.978
+  sintetico | green_square | 2.0 | 13 | nan | True | False | nan | 2.130
+  real | marbles | nan | 42 | 36.0 | False | False | 6.0 | 4.412
+  real | polka dots | nan | 270 | 9.0 | False | False | 261.0 | 4.402
+  real | grapes | nan | 32 | 24.0 | False | False | 8.0 | 4.092
+  real | macarons | nan | 229 | 100.0 | False | False | 129.0 | 27.626
+  real | tomatoes | nan | 48 | 24.0 | False | False | 24.0 | 4.311
+  real | candles | nan | 33 | 12.0 | False | False | 21.0 | 4.655
+  real | shirts | nan | 191 | 1.0 | False | False | 190.0 | 4.122
+  sintetico | purple_circle | 3.0 | 14 | nan | True | False | nan | 2.171
+  sintetico | blue_square | 3.0 | 8 | 5.0 | False | False | 3.0 | 1.904
+  sintetico | blue_square | 1.0 | 7 | nan | True | False | nan | 2.182
+  real | pencils | nan | 24 | 12.0 | False | False | 12.0 | 4.413
+  sintetico | blue_circle | 3.0 | 12 | nan | True | False | nan | 2.225
+  sintetico | purple_circle | 3.0 | 9 | nan | True | False | nan | 2.224
+  real | polka dots | nan | 501 | 9.0 | False | False | 492.0 | 4.695
+  real | cupcake tray | nan | 24 | 19.0 | False | False | 5.0 | 4.418
+  sintetico | red_square | 1.0 | 5 | 5.0 | False | False | 0.0 | 1.897
+  real | toilet paper rolls | nan | 50 | nan | True | False | nan | 6.495
+  real | roof tiles | nan | 197 | 0.0 | False | False | 197.0 | 4.583
+  real | marbles | nan | 150 | 12.0 | False | False | 138.0 | 5.254
+  real | books | nan | 15 | 10.0 | False | False | 5.0 | 4.110
+  sintetico | red_circle | 1.0 | 10 | nan | True | False | nan | 2.180
+  real | apples | nan | 33 | 12.0 | False | False | 21.0 | 4.098
+  real | roof tiles | nan | 152 | 100.0 | False | False | 52.0 | 4.621
+  real | cupcake tray | nan | 12 | 12.0 | False | False | 0.0 | 4.404
+  sintetico | red_circle | 3.0 | 10 | nan | True | False | nan | 2.161
+  sintetico | green_square | 3.0 | 7 | 5.0 | False | False | 2.0 | 1.896
+  real | candles | nan | 24 | 18.0 | False | False | 6.0 | 4.115
+  real | windows | nan | 49 | 18.0 | False | False | 31.0 | 4.425
+  real | comic books | nan | 25 | 15.0 | False | False | 10.0 | 4.404
+  real | carrom board pieces | nan | 19 | 15.0 | False | False | 4.0 | 4.110
+  real | flower pots | nan | 76 | 12.0 | False | False | 64.0 | 4.118
+  real | nail polish | nan | 40 | 24.0 | False | False | 16.0 | 4.405
+  sintetico | green_square | 1.0 | 7 | nan | True | False | nan | 2.162
+  sintetico | blue_square | 1.0 | 6 | 6.0 | False | False | 0.0 | 1.912
+  real | windows | nan | 40 | 12.0 | False | False | 28.0 | 4.111
+  sintetico | blue_square | 1.0 | 5 | 4.0 | False | False | 1.0 | 2.287
+  real | chairs | nan | 40 | nan | True | False | nan | 5.445
+  sintetico | blue_square | 1.0 | 8 | nan | True | False | nan | 2.335
+  real | cups | nan | 12 | 9.0 | False | False | 3.0 | 4.403
+  sintetico | blue_square | 1.0 | 11 | nan | True | False | nan | 2.193
+  real | sunglasses | nan | 68 | 18.0 | False | False | 50.0 | 4.431
+  real | cupcake tray | nan | 16 | 12.0 | False | False | 4.0 | 4.114
+  real | pencils | nan | 24 | 12.0 | False | False | 12.0 | 4.398
+  sintetico | purple_circle | 3.0 | 13 | nan | True | False | nan | 2.100
+  sintetico | orange_square | 3.0 | 12 | nan | True | False | nan | 2.305
+  real | beads | nan | 43 | 24.0 | False | False | 19.0 | 4.412
+  sintetico | blue_square | 2.0 | 9 | nan | True | False | nan | 2.158
+  sintetico | red_circle | 3.0 | 9 | 3.0 | False | False | 6.0 | 2.280
+  sintetico | red_circle | 1.0 | 7 | 5.0 | False | False | 2.0 | 2.332
+  real | windows | nan | 62 | 36.0 | False | False | 26.0 | 4.116
+  sintetico | red_square | 3.0 | 13 | nan | True | False | nan | 2.098
+  sintetico | green_circle | 1.0 | 6 | 5.0 | False | False | 1.0 | 1.895
+  sintetico | purple_circle | 1.0 | 5 | 5.0 | False | False | 0.0 | 2.188
+  sintetico | green_circle | 1.0 | 8 | 8.0 | False | False | 0.0 | 2.301
+  real | chairs | nan | 67 | 36.0 | False | False | 31.0 | 5.818
+  real | beads | nan | 19 | 10.0 | False | False | 9.0 | 4.413
+  real | green peas | nan | 32 | 12.0 | False | False | 20.0 | 4.100
+  real | windows | nan | 23 | 12.0 | False | False | 11.0 | 4.095
+  real | bowls | nan | 16 | 12.0 | False | False | 4.0 | 4.725
+  sintetico | blue_square | 1.0 | 8 | nan | True | False | nan | 2.527
+  sintetico | orange_circle | 1.0 | 10 | 9.0 | False | False | 1.0 | 2.199
+  real | candles | nan | 9 | 6.0 | False | False | 3.0 | 4.096
+  sintetico | red_square | 2.0 | 9 | 8.0 | False | False | 1.0 | 2.199
+  sintetico | green_square | 1.0 | 6 | 6.0 | False | False | 0.0 | 1.909
+  real | cupcake tray | nan | 12 | 12.0 | False | False | 0.0 | 4.416
+  sintetico | blue_square | 3.0 | 8 | 5.0 | False | False | 3.0 | 1.899
+  real | candles | nan | 9 | 6.0 | False | False | 3.0 | 4.089
+  real | chicken wings | nan | 28 | 19.0 | False | False | 9.0 | 4.111
+  real | donuts tray | nan | 12 | 9.0 | False | False | 3.0 | 4.128
+  real | windows | nan | 381 | 36.0 | False | False | 345.0 | 4.616
+  sintetico | green_square | 1.0 | 8 | 9.0 | False | False | 1.0 | 1.916
+  real | cups | nan | 22 | 18.0 | False | False | 4.0 | 4.418
+  real | flower pots | nan | 68 | 36.0 | False | False | 32.0 | 4.328
+  sintetico | purple_circle | 1.0 | 9 | 9.0 | False | False | 0.0 | 2.189

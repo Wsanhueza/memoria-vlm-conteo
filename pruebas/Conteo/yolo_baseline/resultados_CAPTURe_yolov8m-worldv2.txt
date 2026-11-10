@@ -1,0 +1,26 @@
+BENCHMARK: CAPTURe
+MODELO: yolov8m-worldv2 (YOLO-World open-vocabulary)
+FECHA: 2026-09-13T20:19:21.092757
+MUESTRA_REAL: 50/824
+SEMILLA: 42
+CONF_PRINCIPAL: 0.1
+IOU_NMS: 0.45
+--------------------------------------------------
+[REAL]
+  N: 50
+  ACCURACY_EXACTA: 0.0000
+  MAE: 58.3400
+  VARIANZA_ERROR: 6936.1065
+  CI_ACCURACY_95_WILSON: [0.0000, 0.0714]
+  CI_MAE_95_BOOTSTRAP: [37.82, 82.20]
+--------------------------------------------------
+SENSIBILIDAD_UMBRAL
+  conf=0.1: accuracy=0.0000 mae=58.3400
+  conf=0.25: accuracy=0.0000 mae=59.5200
+  conf=0.5: accuracy=0.0000 mae=60.3600
+--------------------------------------------------
+DESGLOSE_REAL_POR_BUCKET_MAGNITUD
+  8-15: n=14 accuracy=0.0000 mae=9.0714
+  16-28: n=11 accuracy=0.0000 mae=18.3636
+  29-67: n=12 accuracy=0.0000 mae=39.5000
+  68-907: n=13 accuracy=0.0000 mae=162.6154
