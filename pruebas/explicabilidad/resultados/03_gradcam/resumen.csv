@@ -1,0 +1,23 @@
+id,grupo,pregunta,token,prediccion,logit,prob,top5_gradcam_llm
+q002,acierto,How many diamonds are there in the image?,2,2,30.875,0.4919,34 514 723 651 722
+q065,acierto,How many red shapes are there in the image?,3,3,31.5,0.4533,269 7 28 268 558
+q016,acierto,How many red shapes are there in the image?,2,2,34.0,0.8919,7 354 514 357 353
+q071,acierto,How many red shapes are there in the image?,2,2,32.75,0.6524,562 410 7 269 454
+q091,acierto,How many pink shapes are there in the image?,6,6,29.125,0.294,52 501 50 722 49
+q019,acierto,How many yellow shapes are there in the image?,2,2,33.5,0.6091,158 315 26 160 159
+q039,acierto,How many pink shapes are there in the image?,6,6,30.125,0.3384,373 128 695 49 374
+q031,cercano,How many triangles are there in the image?,2,2,32.5,0.7535,428 429 455 427 412
+q038,cercano,How many light blue shapes are there in the image?,2,2,33.0,0.7298,108 250 249 248 247
+q029,cercano,How many squares are there in the image?,2,2,30.625,0.4162,679 546 543 136 164
+q062,cercano,How many pink shapes are there in the image?,4,4,30.25,0.3269,50 49 269 7 722
+q015,cercano,How many pink shapes are there in the image?,3,3,31.75,0.4632,354 572 583 319 269
+q005,cercano,How many triangles are there in the image?,2,2,32.0,0.5674,714 715 695 607 681
+q092,cercano,How many blue shapes are there in the image?,4,4,30.5,0.3993,722 714 357 681 723
+q099,lejano,How many triangles are there in the image?,4,4,29.125,0.2833,695 18 167 722 269
+q058,lejano,How many diamonds are there in the image?,4,4,29.125,0.2869,91 354 571 353 513
+q048,lejano,How many triangles are there in the image?,6,6,28.375,0.2672,560 269 652 7 6
+q024,lejano,How many triangles are there in the image?,6,6,28.25,0.252,624 652 681 301 303
+q110,lejano,How many red shapes are there in the image?,6,6,29.0,0.2457,642 652 708 724 409
+q068,lejano,How many green shapes are there in the image?,2,2,31.25,0.4625,269 714 722 622 626
+gris,control,How many circles are there in the image?,0,0,32.75,0.9998,706 513 540 705 23
+ruido,control,How many circles are there in the image?,0,0,31.5,0.9998,706 705 513 540 22
