@@ -1,0 +1,23 @@
+id,grupo,pregunta,top5_rollout,top5_norma,norma_max_sobre_mediana
+q002,acierto,How many diamonds are there in the image?,161 135 721 188 23,513 540 23 22 319,25.27
+q065,acierto,How many red shapes are there in the image?,161 135 721 188 23,513 540 23 22 312,25.69
+q016,acierto,How many red shapes are there in the image?,161 135 721 188 23,513 540 23 22 514,23.89
+q071,acierto,How many red shapes are there in the image?,161 135 188 721 23,513 540 23 22 427,25.79
+q091,acierto,How many pink shapes are there in the image?,161 135 188 721 23,513 540 23 22 667,26.0
+q019,acierto,How many yellow shapes are there in the image?,161 135 188 721 23,513 540 23 22 348,23.71
+q039,acierto,How many pink shapes are there in the image?,161 135 188 721 23,513 540 23 22 50,25.57
+q031,cercano,How many triangles are there in the image?,161 135 188 721 23,513 540 23 22 722,25.42
+q038,cercano,How many light blue shapes are there in the image?,161 135 721 188 23,513 540 23 22 687,25.81
+q029,cercano,How many squares are there in the image?,161 135 721 188 23,513 540 23 22 681,25.17
+q062,cercano,How many pink shapes are there in the image?,161 135 188 721 23,513 540 23 22 722,25.41
+q015,cercano,How many pink shapes are there in the image?,161 135 721 188 23,513 540 23 22 319,24.1
+q005,cercano,How many triangles are there in the image?,161 135 721 188 23,513 540 23 22 666,24.93
+q092,cercano,How many blue shapes are there in the image?,161 135 721 188 23,513 540 23 22 357,25.8
+q099,lejano,How many triangles are there in the image?,161 135 188 721 23,513 540 23 22 136,25.54
+q058,lejano,How many diamonds are there in the image?,161 135 721 188 23,513 540 23 22 136,25.49
+q048,lejano,How many triangles are there in the image?,161 135 188 721 23,513 540 23 22 507,25.42
+q024,lejano,How many triangles are there in the image?,161 135 721 188 23,513 540 23 22 651,24.96
+q110,lejano,How many red shapes are there in the image?,161 135 188 721 23,513 540 23 22 409,25.8
+q068,lejano,How many green shapes are there in the image?,161 135 188 721 23,513 540 23 22 382,25.6
+gris,control,,161 135 721 188 23,513 540 23 22 609,17.48
+ruido,control,,161 188 135 721 23,513 540 22 23 328,23.38

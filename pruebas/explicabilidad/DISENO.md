@@ -108,3 +108,11 @@ Además, la **pendiente**: ajuste lineal de la predicción contra figuras borrad
 
 - La oclusión se corre sobre las **120 preguntas** y no sobre 80: cuesta ~10 minutos más y da más precisión.
 - La preparación de imágenes se hace fuera de Colab (`preparar_conjunto.py`). Así Colab solo hace preguntas, y las imágenes no dependen de la versión de Pillow de Colab.
+
+### Anotaciones después de la corrida 01 (10-11-2026)
+
+Las reglas no cambiaron. Se dejan anotadas cuatro cosas observadas:
+- **No hubo respuestas con formato inválido.** El grupo "invalido" quedó vacío, así que la muestra de 20 para los mapas quedó en 7 aciertos, 7 errores cercanos y 6 errores lejanos (regla de reparto de la sección 5).
+- **"Número favorito" (10 o 100) no aparece.** Las respuestas en c0 usan solo los valores 1, 2, 3, 4 y 6, con techo en 6. Se reporta como hallazgo; la columna `numero_favorito` se mantiene tal como se definió.
+- **Grounding:** 2 de 120 llamadas a `point()` llegaron al tope de 100 puntos (salida degenerada). Se informan aparte.
+- **Determinismo:** `info_corrida.json` registra 0/10 por un error de tipos en la celda de verificación. Repetido con la celda corregida, dio 10/10.

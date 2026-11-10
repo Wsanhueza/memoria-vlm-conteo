@@ -1,0 +1,21 @@
+qid,grupo,orden_en_grupo,num_shapes,tipo,objetivo,gt,c0,pregunta,imagen_v2
+q002,acierto,1,15,conteo_forma,rombo,2,2,How many diamonds are there in the image?,escena_0036_n015.png
+q065,acierto,2,35,conteo_color,rojo,3,3,How many red shapes are there in the image?,escena_0111_n035.png
+q016,acierto,3,15,conteo_color,rojo,2,2,How many red shapes are there in the image?,escena_0045_n015.png
+q071,acierto,4,35,conteo_color,rojo,2,2,How many red shapes are there in the image?,escena_0096_n035.png
+q091,acierto,5,45,conteo_color,rosado,6,6,How many pink shapes are there in the image?,escena_0123_n045.png
+q019,acierto,6,15,conteo_color,amarillo,2,2,How many yellow shapes are there in the image?,escena_0043_n015.png
+q039,acierto,7,25,conteo_color,rosado,6,6,How many pink shapes are there in the image?,escena_0085_n025.png
+q031,cercano,1,25,conteo_forma,triangulo,3,2,How many triangles are there in the image?,escena_0062_n025.png
+q038,cercano,2,25,conteo_color,celeste,4,2,How many light blue shapes are there in the image?,escena_0075_n025.png
+q029,cercano,3,25,conteo_forma,cuadrado,2,3,How many squares are there in the image?,escena_0069_n025.png
+q062,cercano,4,35,conteo_color,rosado,5,4,How many pink shapes are there in the image?,escena_0108_n035.png
+q015,cercano,5,15,conteo_color,rosado,4,3,How many pink shapes are there in the image?,escena_0044_n015.png
+q005,cercano,6,15,conteo_forma,triangulo,3,2,How many triangles are there in the image?,escena_0035_n015.png
+q092,cercano,7,45,conteo_color,azul,5,4,How many blue shapes are there in the image?,escena_0135_n045.png
+q099,lejano,1,55,conteo_forma,triangulo,9,4,How many triangles are there in the image?,escena_0152_n055.png
+q058,lejano,2,35,conteo_forma,rombo,8,4,How many diamonds are there in the image?,escena_0100_n035.png
+q048,lejano,3,35,conteo_forma,triangulo,10,6,How many triangles are there in the image?,escena_0103_n035.png
+q024,lejano,4,25,conteo_forma,triangulo,9,6,How many triangles are there in the image?,escena_0063_n025.png
+q110,lejano,5,55,conteo_color,rojo,9,6,How many red shapes are there in the image?,escena_0165_n055.png
+q068,lejano,6,35,conteo_color,verde,5,2,How many green shapes are there in the image?,escena_0107_n035.png
