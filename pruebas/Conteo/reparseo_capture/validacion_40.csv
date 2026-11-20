@@ -1,0 +1,102 @@
+modelo,subset,fila,ground_truth,prediccion,nuevo,regla,respuesta_cruda
+InternVL2,sintetico,115,10,1.0,10.0,R2,"The pattern of purple squares is that each square is 1 unit by 1 unit.
+
+There are 10 squares in the image."
+InternVL2,real,91,68,16.0,16.0,R2,"In the image, there are 16 flower pots visible. The black box is placed behind the first row of flower pots, so the total number of flower pots remains 16."
+InternVL2,sintetico,15,6,1.0,10.0,R2,"The pattern of purple squares in the image is that each square is 1 unit by 1 unit.
+
+There are 10 purple squares in the image.
+
+Final count: 10"
+InternVL2,sintetico,57,7,1.0,,sin_conteo,"The pattern of red squares in the image is that each subsequent red square is placed directly above the previous one.
+
+So, the pattern continues as follows:
+1. Red square (top)
+2. Red square (top)
+3. Red square (top)
+4. Red square (top)
+5. Red square (top"
+InternVL2,real,123,33,12.0,12.0,R2,"In the image, there are 12 toilet paper rolls visible. The black box is placed behind the first roll, making it not visible. Therefore, the total number of toilet paper rolls is 12."
+InternVL2,sintetico,5,10,1.0,,sin_conteo,"The pattern of red circles in the image is that each subsequent red circle is placed directly above the previous one.
+
+So, the pattern continues as follows:
+1. The first red circle is placed directly above the black box.
+2. The second red circle is placed directly above the first red circle.
+3. The third red"
+InternVL2,real,193,28,12.0,12.0,R2,"In the image, there are 12 chicken wings visible."
+InternVL2,sintetico,196,8,2.0,,sin_conteo,"The pattern of green squares in the image is that each square is 2 units by 2 units. 
+
+To count the number of squares in the image, we can divide the image into 4 equal 2x2 grids. 
+
+1. The top-left square is 2 units by 2 units.
+2"
+InternVL2,sintetico,88,14,1.0,,sin_conteo,"The pattern of purple squares in the image is that each square is 1 unit by 1 unit.
+
+To count the number of squares in the image, we can observe the following:
+
+1. The black square is the first square in the sequence.
+2. Each subsequent square is 1 unit larger than the previous one"
+InternVL2,sintetico,185,8,5.0,10.0,R2,"The pattern of blue squares in the image is that each square is 5 units by 5 units.
+
+To count the objects, we can observe the following:
+
+1. The black box is placed at the center of the image.
+2. Surrounding the black box, there are 10 blue squares.
+3."
+moondream2,sintetico,115,10,9.0,,sin_conteo,The pattern consists of nine purple squares arranged around a black square.
+moondream2,real,91,68,,,sin_conteo,"The exact number of flower pots in the image cannot be determined without seeing the entire image. However, considering the pattern of flower pots continuing behind any black box, the total number of flower pots would be significantly higher than the number of flower pots in the visible portion of the image."
+moondream2,sintetico,15,6,5.0,5.0,R1,5
+moondream2,sintetico,57,7,6.0,,sin_conteo,The pattern consists of six red squares arranged around the black square.
+moondream2,real,123,33,15.0,15.0,R2,The total number of toilet paper rolls in the image is 15.
+moondream2,sintetico,5,10,9.0,,sin_conteo,The pattern is a circle of nine red circles surrounding a black square.
+moondream2,real,193,28,19.0,19.0,R1,19
+moondream2,sintetico,196,8,9.0,9.0,R1,9
+moondream2,sintetico,88,14,,,sin_conteo,The pattern is a circle of purple squares.
+moondream2,sintetico,185,8,,,sin_conteo,The pattern consists of blue squares arranged around the black box. The pattern repeats in a circular fashion around the black box.
+PaliGemma2,sintetico,115,10,1.0,,sin_conteo,squares with one black square in the center.
+PaliGemma2,real,91,68,,,sin_conteo,"Sorry, as a base VLM I am not trained to answer this question."
+PaliGemma2,sintetico,15,6,,,sin_conteo,unanswerable
+PaliGemma2,sintetico,57,7,,,sin_conteo,unanswerable
+PaliGemma2,real,123,33,,,sin_conteo,"Sorry, as a base VLM I am not trained to answer this question."
+PaliGemma2,sintetico,5,10,,,sin_conteo,unanswerable
+PaliGemma2,real,193,28,10.0,10.0,R1,10
+PaliGemma2,sintetico,196,8,3.0,,sin_conteo,squares per row 3 squares per column
+PaliGemma2,sintetico,88,14,11.0,,sin_conteo,"The pattern is a circle of 11 purple squares, with a black square in the center."
+PaliGemma2,sintetico,185,8,,,sin_conteo,squares in pattern are evenly spaced around the black square.
+Qwen2,sintetico,115,10,1.0,,sin_conteo,"The pattern in the image consists of a series of purple squares arranged in a circular pattern. The pattern continues behind the black box, forming a continuous circle of purple squares.
+
+To count the objects in the image, follow these steps:
+
+1. Identify the outermost circle of purple squares.
+2. Count the number of squares"
+Qwen2,real,91,68,40.0,40.0,R2,There are 40 flower pots in the image.
+Qwen2,sintetico,15,6,2.0,,sin_conteo,"The pattern consists of a series of purple squares that are arranged in a grid-like structure. The squares are arranged in a 2x2 grid, with each row containing 2 squares. The black box is positioned in the center of the pattern, and there are no additional objects or patterns visible behind the black box."
+Qwen2,sintetico,57,7,10.0,10.0,R2,"The pattern consists of a black square surrounded by a series of red squares. The pattern continues behind the black square, forming a continuous sequence of red squares.
+
+Final count: 10"
+Qwen2,real,123,33,10.0,10.0,R2,There are 10 toilet paper rolls in the image.
+Qwen2,sintetico,5,10,1.0,,sin_conteo,"The pattern in the image consists of a circle with a black square inside it. The circle contains a sequence of red circles, and the pattern continues behind the black square.
+
+To count the objects in the image, we can follow these steps:
+
+1. Identify the outermost circle: The outermost circle contains 10"
+Qwen2,real,193,28,12.0,12.0,R2,There are 12 chicken wings in the image.
+Qwen2,sintetico,196,8,9.0,9.0,R2,"The pattern in the image consists of a black square surrounded by eight green squares. The pattern continues behind the black square, forming a circle of green squares.
+
+Final count: 9"
+Qwen2,sintetico,88,14,1.0,,sin_conteo,"The pattern in the image consists of a series of purple squares arranged in a circular pattern. The pattern is as follows:
+
+1. Purple square
+2. Purple square
+3. Purple square
+4. Purple square
+5. Purple square
+6. Purple square
+7. Purple square
+8. Purple square"
+Qwen2,sintetico,185,8,4.0,,sin_conteo,"The pattern in the image consists of a black box with blue squares surrounding it. The pattern continues behind the black box, forming a circle with a radius of 4 squares.
+
+To count the objects in the image, we can follow these steps:
+
+1. Identify the black box.
+2. Count the blue squares surrounding the"

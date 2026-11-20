@@ -1,0 +1,12 @@
+{
+  "modelo": "vikhyatk/moondream2",
+  "revision": "2025-06-21",
+  "transformers": "4.46.3",
+  "torch": "2.14.1+cu130",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "sufijo": " Respond with only the integer number.",
+  "objetivo_gradiente": "logit del primer token de respuesta (argmax)",
+  "verificacion_coinciden_de_5": 5,
+  "vram_pico_mb": 6759
+}

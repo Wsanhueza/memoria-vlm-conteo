@@ -1,4 +1,5 @@
-"""Análisis de la corrida 03 (Grad-CAM de moondream2) y cruce con la oclusión. CPU.
+"""Uso: python <script>.py  (35 px)  ·  python <script>.py _t70  (figuras de 70 px)
+Análisis de la corrida 03 (Grad-CAM de moondream2) y cruce con la oclusión. CPU.
 
 Uso (desde pruebas/explicabilidad/): python analizar_gradcam.py
 Lee conjunto_v2/, resultados/01_conducta/analisis/por_pregunta.csv y resultados/03_gradcam/;
@@ -6,6 +7,7 @@ escribe resultados/03_gradcam/analisis/.
 """
 import csv
 import json
+import sys
 from pathlib import Path
 
 import numpy as np
@@ -14,8 +16,9 @@ import pandas as pd
 from analizar_rollout import LADO, enriquecimiento, fraccion_por_token
 
 AQUI = Path(__file__).resolve().parent
-CONJUNTO = AQUI / "conjunto_v2"
-RES = AQUI / "resultados" / "03_gradcam"
+SUF = sys.argv[1] if len(sys.argv) > 1 else ""  # "" = figuras de 35 px (original); "_t70" = 70 px
+CONJUNTO = AQUI / ("conjunto_v2" if SUF == "" else f"conjunto{SUF}")
+RES = AQUI / "resultados" / f"03_gradcam{SUF}"
 SALIDA = RES / "analisis"
 MAPAS = ["gradcam_llm", "gradcam_enc"]
 
@@ -36,7 +39,7 @@ def main():
     z = np.load(RES / "mapas_gradcam.npz")
     preg = {p["qid"]: p for p in csv.DictReader(open(CONJUNTO / "preguntas.csv", encoding="utf-8"))}
     objetos = json.load(open(CONJUNTO / "objetos.json", encoding="utf-8"))
-    cond = pd.read_csv(AQUI / "resultados" / "01_conducta" / "analisis" / "por_pregunta.csv", index_col=0)
+    cond = pd.read_csv(AQUI / "resultados" / f"01_conducta{SUF}" / "analisis" / "por_pregunta.csv", index_col=0)
     resumen = pd.read_csv(RES / "resumen.csv").set_index("id")
     muestra = [i for i in resumen.index if i in preg]
 

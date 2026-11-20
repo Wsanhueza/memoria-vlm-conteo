@@ -1,0 +1,23 @@
+id,grupo,pregunta,token,prediccion,logit,prob,top5_gradcam_llm
+q040,acierto,How many orange shapes are there in the image?,2,2,30.875,0.5203,137 119 164 138 172
+q022,acierto,How many pink shapes are there in the image?,3,3,32.75,0.5886,7 139 174 406 137
+q018,acierto,How many purple shapes are there in the image?,3,3,32.25,0.4447,49 681 411 680 410
+q007,acierto,How many triangles are there in the image?,2,2,33.5,0.9001,516 301 697 7 723
+q108,acierto,How many blue shapes are there in the image?,8,8,28.625,0.1916,9 585 89 624 714
+q016,acierto,How many red shapes are there in the image?,2,2,33.0,0.7662,549 403 490 430 548
+q074,acierto,How many diamonds are there in the image?,3,3,30.0,0.3521,292 126 24 291 220
+q054,cercano,How many triangles are there in the image?,3,3,30.125,0.5063,410 722 514 411 695
+q010,cercano,How many diamonds are there in the image?,2,2,32.5,0.6891,723 695 7 651 673
+q085,cercano,How many blue shapes are there in the image?,6,6,30.125,0.288,566 280 271 284 282
+q017,cercano,How many blue shapes are there in the image?,2,2,34.25,0.9269,540 541 515 513 543
+q011,cercano,How many triangles are there in the image?,3,3,30.875,0.528,687 714 268 184 556
+q093,cercano,How many pink shapes are there in the image?,6,6,30.0,0.3445,707 714 595 409 411
+q089,cercano,How many purple shapes are there in the image?,6,6,30.875,0.3071,136 551 722 720 163
+q113,lejano,How many light blue shapes are there in the image?,6,6,29.125,0.2544,722 163 312 720 136
+q078,lejano,How many diamonds are there in the image?,4,4,29.375,0.3006,722 660 6 714 163
+q056,lejano,How many circles are there in the image?,3,3,30.625,0.4393,488 649 722 7 4
+q029,lejano,How many squares are there in the image?,3,3,30.375,0.38,722 560 667 695 642
+q028,lejano,How many circles are there in the image?,4,4,30.625,0.369,49 52 50 697 724
+q079,lejano,How many circles are there in the image?,6,6,30.375,0.316,396 454 491 482 717
+gris,control,How many circles are there in the image?,0,0,32.75,0.9998,706 513 540 705 23
+ruido,control,How many circles are there in the image?,0,0,31.5,0.9998,706 705 513 540 22

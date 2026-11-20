@@ -1,0 +1,121 @@
+qid,imagen_v2,num_shapes,tipo,objetivo,pregunta,objeto_point,gt,borrada_c1,borradas_c2,borrada_control,c1_aislada,c2_aisladas,control_aislada
+q000,escena_0042_n015.png,15,conteo_forma,triangulo,How many triangles are there in the image?,triangles,7,7,7;0,12,True,True,True
+q001,escena_0038_n015.png,15,conteo_forma,triangulo,How many triangles are there in the image?,triangles,6,14,14;13,4,True,True,True
+q002,escena_0036_n015.png,15,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,2,6,6;11,12,True,True,True
+q003,escena_0032_n015.png,15,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,3,13,13;3,0,True,True,True
+q004,escena_0056_n015.png,15,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,3,11,11;3,9,True,False,True
+q005,escena_0035_n015.png,15,conteo_forma,triangulo,How many triangles are there in the image?,triangles,3,7,7;6,8,True,True,True
+q006,escena_0051_n015.png,15,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,5,12,12;8,10,True,True,True
+q007,escena_0053_n015.png,15,conteo_forma,triangulo,How many triangles are there in the image?,triangles,2,10,10;8,1,True,True,True
+q008,escena_0058_n015.png,15,conteo_forma,circulo,How many circles are there in the image?,circles,7,11,11;1,3,True,True,True
+q009,escena_0034_n015.png,15,conteo_forma,circulo,How many circles are there in the image?,circles,3,13,13;2,0,True,True,True
+q010,escena_0041_n015.png,15,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,3,1,1;11,6,True,True,True
+q011,escena_0031_n015.png,15,conteo_forma,triangulo,How many triangles are there in the image?,triangles,4,0,0;11,12,True,True,True
+q012,escena_0039_n015.png,15,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,2,1,1;8,9,True,False,True
+q013,escena_0030_n015.png,15,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,3,14,14;1,13,True,True,True
+q014,escena_0054_n015.png,15,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,4,5,5;12,4,True,True,True
+q015,escena_0044_n015.png,15,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,4,5,5;12,11,True,True,True
+q016,escena_0045_n015.png,15,conteo_color,rojo,How many red shapes are there in the image?,red shapes,2,14,14;11,6,True,False,True
+q017,escena_0055_n015.png,15,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,3,11,11;9,14,True,True,True
+q018,escena_0048_n015.png,15,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,3,14,14;13,6,True,True,True
+q019,escena_0043_n015.png,15,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,3,2,2;1,6,True,True,True
+q020,escena_0047_n015.png,15,conteo_color,verde,How many green shapes are there in the image?,green shapes,4,5,5;11,14,True,True,True
+q021,escena_0052_n015.png,15,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,2,1,1;6,13,True,False,True
+q022,escena_0049_n015.png,15,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,3,1,1;7,2,True,True,True
+q023,escena_0037_n015.png,15,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,2,4,4;14,7,True,True,True
+q024,escena_0067_n025.png,25,conteo_forma,circulo,How many circles are there in the image?,circles,4,22,22;10,13,True,True,True
+q025,escena_0065_n025.png,25,conteo_forma,circulo,How many circles are there in the image?,circles,7,22,22;15,1,True,True,True
+q026,escena_0089_n025.png,25,conteo_forma,triangulo,How many triangles are there in the image?,triangles,4,16,16;11,6,True,False,True
+q027,escena_0082_n025.png,25,conteo_forma,cuadrado,How many squares are there in the image?,squares,7,13,13;19,22,True,True,True
+q028,escena_0077_n025.png,25,conteo_forma,circulo,How many circles are there in the image?,circles,7,20,20;10,23,True,True,True
+q029,escena_0081_n025.png,25,conteo_forma,cuadrado,How many squares are there in the image?,squares,6,11,11;2,7,True,True,True
+q030,escena_0085_n025.png,25,conteo_forma,triangulo,How many triangles are there in the image?,triangles,5,7,7;1,8,True,True,True
+q031,escena_0068_n025.png,25,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,5,9,9;16,1,True,True,True
+q032,escena_0062_n025.png,25,conteo_forma,triangulo,How many triangles are there in the image?,triangles,3,12,12;8,17,True,True,True
+q033,escena_0087_n025.png,25,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,4,1,1;5,20,True,True,True
+q034,escena_0070_n025.png,25,conteo_forma,circulo,How many circles are there in the image?,circles,7,22,22;13,2,True,True,True
+q035,escena_0074_n025.png,25,conteo_forma,circulo,How many circles are there in the image?,circles,3,11,11;2,23,True,True,True
+q036,escena_0075_n025.png,25,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,3,13,13;24,11,True,True,True
+q037,escena_0063_n025.png,25,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,2,24,24;1,11,True,True,True
+q038,escena_0066_n025.png,25,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,3,14,14;18,24,True,True,True
+q039,escena_0072_n025.png,25,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,5,24,24;11,16,True,True,True
+q040,escena_0083_n025.png,25,conteo_color,naranjo,How many orange shapes are there in the image?,orange shapes,2,17,17;12,18,False,False,True
+q041,escena_0086_n025.png,25,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,3,18,18;23,0,True,True,True
+q042,escena_0088_n025.png,25,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,2,0,0;9,12,True,True,True
+q043,escena_0078_n025.png,25,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,2,5,5;15,22,False,False,True
+q044,escena_0073_n025.png,25,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,3,12,12;14,17,True,True,True
+q045,escena_0060_n025.png,25,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,3,7,7;5,4,True,True,True
+q046,escena_0069_n025.png,25,conteo_color,verde,How many green shapes are there in the image?,green shapes,2,20,20;3,16,True,False,True
+q047,escena_0084_n025.png,25,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,5,1,1;0,24,True,True,True
+q048,escena_0099_n035.png,35,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,31,31;4,14,True,True,True
+q049,escena_0097_n035.png,35,conteo_forma,triangulo,How many triangles are there in the image?,triangles,10,13,13;3,34,True,True,True
+q050,escena_0113_n035.png,35,conteo_forma,circulo,How many circles are there in the image?,circles,4,15,15;7,33,True,True,True
+q051,escena_0116_n035.png,35,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,5,24,24;13,33,True,True,True
+q052,escena_0091_n035.png,35,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,7,12,12;6,2,True,True,True
+q053,escena_0100_n035.png,35,conteo_forma,circulo,How many circles are there in the image?,circles,10,12,12;31,0,True,True,True
+q054,escena_0106_n035.png,35,conteo_forma,triangulo,How many triangles are there in the image?,triangles,5,17,17;6,9,True,True,True
+q055,escena_0112_n035.png,35,conteo_forma,triangulo,How many triangles are there in the image?,triangles,6,21,21;8,4,True,True,True
+q056,escena_0118_n035.png,35,conteo_forma,circulo,How many circles are there in the image?,circles,7,23,23;27,29,True,True,True
+q057,escena_0098_n035.png,35,conteo_forma,circulo,How many circles are there in the image?,circles,10,23,23;13,28,True,True,True
+q058,escena_0114_n035.png,35,conteo_forma,triangulo,How many triangles are there in the image?,triangles,8,28,28;13,17,True,True,True
+q059,escena_0094_n035.png,35,conteo_forma,circulo,How many circles are there in the image?,circles,6,33,33;23,21,True,True,True
+q060,escena_0105_n035.png,35,conteo_color,rojo,How many red shapes are there in the image?,red shapes,3,19,19;28,17,True,True,True
+q061,escena_0111_n035.png,35,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,5,32,32;5,13,True,True,True
+q062,escena_0117_n035.png,35,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,5,29,29;31,9,True,True,True
+q063,escena_0090_n035.png,35,conteo_color,verde,How many green shapes are there in the image?,green shapes,4,31,31;0,25,True,True,True
+q064,escena_0110_n035.png,35,conteo_color,naranjo,How many orange shapes are there in the image?,orange shapes,2,10,10;13,3,True,False,True
+q065,escena_0103_n035.png,35,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,5,20,20;15,17,True,True,True
+q066,escena_0109_n035.png,35,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,3,2,2;12,6,True,True,True
+q067,escena_0093_n035.png,35,conteo_color,verde,How many green shapes are there in the image?,green shapes,5,23,23;13,25,True,True,True
+q068,escena_0102_n035.png,35,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,5,17,17;8,0,True,True,True
+q069,escena_0104_n035.png,35,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,4,26,26;7,13,True,True,True
+q070,escena_0095_n035.png,35,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,3,24,24;32,5,True,False,True
+q071,escena_0107_n035.png,35,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,7,19,19;28,5,True,True,True
+q072,escena_0134_n045.png,45,conteo_forma,circulo,How many circles are there in the image?,circles,7,7,7;37,10,True,True,True
+q073,escena_0138_n045.png,45,conteo_forma,triangulo,How many triangles are there in the image?,triangles,6,1,1;22,27,True,True,True
+q074,escena_0137_n045.png,45,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,3,37,37;4,2,True,True,True
+q075,escena_0124_n045.png,45,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,8,26,26;4,16,True,True,True
+q076,escena_0128_n045.png,45,conteo_forma,triangulo,How many triangles are there in the image?,triangles,10,44,44;39,36,True,True,True
+q077,escena_0147_n045.png,45,conteo_forma,circulo,How many circles are there in the image?,circles,7,41,41;29,36,True,True,True
+q078,escena_0131_n045.png,45,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,9,8,8;26,1,True,True,True
+q079,escena_0133_n045.png,45,conteo_forma,circulo,How many circles are there in the image?,circles,9,41,41;43,8,True,True,True
+q080,escena_0141_n045.png,45,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,5,20,20;43,40,True,True,True
+q081,escena_0144_n045.png,45,conteo_forma,circulo,How many circles are there in the image?,circles,5,36,36;42,39,True,True,True
+q082,escena_0146_n045.png,45,conteo_forma,triangulo,How many triangles are there in the image?,triangles,7,3,3;38,10,True,True,True
+q083,escena_0135_n045.png,45,conteo_forma,cuadrado,How many squares are there in the image?,squares,8,16,16;36,23,True,True,True
+q084,escena_0130_n045.png,45,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,6,25,25;7,14,True,True,True
+q085,escena_0122_n045.png,45,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,7,21,21;16,41,True,True,True
+q086,escena_0123_n045.png,45,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,6,4,4;38,5,True,True,True
+q087,escena_0132_n045.png,45,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,6,22,22;18,44,True,True,True
+q088,escena_0125_n045.png,45,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,6,22,22;17,35,True,True,True
+q089,escena_0143_n045.png,45,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,7,3,3;16,19,True,True,True
+q090,escena_0139_n045.png,45,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,6,40,40;8,19,True,True,True
+q091,escena_0142_n045.png,45,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,8,29,29;19,14,True,True,True
+q092,escena_0126_n045.png,45,conteo_color,rojo,How many red shapes are there in the image?,red shapes,5,43,43;16,38,True,True,True
+q093,escena_0140_n045.png,45,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,7,38,38;22,20,True,True,True
+q094,escena_0149_n045.png,45,conteo_color,verde,How many green shapes are there in the image?,green shapes,6,30,30;8,36,True,True,True
+q095,escena_0129_n045.png,45,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,9,9,9;40,25,True,True,True
+q096,escena_0154_n055.png,55,conteo_forma,circulo,How many circles are there in the image?,circles,8,38,38;21,49,True,True,True
+q097,escena_0156_n055.png,55,conteo_forma,triangulo,How many triangles are there in the image?,triangles,10,4,4;37,38,True,True,True
+q098,escena_0150_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,32,32;35,19,True,True,True
+q099,escena_0151_n055.png,55,conteo_forma,cuadrado,How many squares are there in the image?,squares,10,43,43;49,31,True,True,True
+q100,escena_0164_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,7,23,23;48,2,True,True,True
+q101,escena_0171_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,51,51;35,12,True,True,True
+q102,escena_0153_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,9,40,40;0,34,True,True,True
+q103,escena_0169_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,33,33;36,22,True,True,True
+q104,escena_0168_n055.png,55,conteo_forma,circulo,How many circles are there in the image?,circles,9,12,12;24,42,True,True,True
+q105,escena_0178_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,13,13;14,20,True,True,True
+q106,escena_0152_n055.png,55,conteo_forma,triangulo,How many triangles are there in the image?,triangles,10,41,41;16,40,True,True,True
+q107,escena_0173_n055.png,55,conteo_forma,rombo,How many diamonds are there in the image?,diamonds,10,43,43;39,41,True,True,True
+q108,escena_0163_n055.png,55,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,8,34,34;47,50,True,True,True
+q109,escena_0155_n055.png,55,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,6,8,8;29,4,True,True,True
+q110,escena_0174_n055.png,55,conteo_color,rosado,How many pink shapes are there in the image?,pink shapes,6,39,39;51,29,True,True,True
+q111,escena_0162_n055.png,55,conteo_color,naranjo,How many orange shapes are there in the image?,orange shapes,7,40,40;43,27,True,True,True
+q112,escena_0170_n055.png,55,conteo_color,verde,How many green shapes are there in the image?,green shapes,4,50,50;6,46,True,True,True
+q113,escena_0175_n055.png,55,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,10,20,20;38,4,True,True,True
+q114,escena_0166_n055.png,55,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,4,14,14;30,17,True,True,True
+q115,escena_0161_n055.png,55,conteo_color,amarillo,How many yellow shapes are there in the image?,yellow shapes,3,28,28;2,3,True,True,True
+q116,escena_0172_n055.png,55,conteo_color,azul,How many blue shapes are there in the image?,blue shapes,5,24,24;37,2,True,False,True
+q117,escena_0165_n055.png,55,conteo_color,celeste,How many light blue shapes are there in the image?,light blue shapes,5,10,10;8,27,True,True,True
+q118,escena_0176_n055.png,55,conteo_color,naranjo,How many orange shapes are there in the image?,orange shapes,8,1,1;22,21,True,True,True
+q119,escena_0158_n055.png,55,conteo_color,morado,How many purple shapes are there in the image?,purple shapes,6,7,7;28,50,True,True,True

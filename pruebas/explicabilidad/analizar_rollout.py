@@ -1,18 +1,21 @@
-"""Análisis de la corrida 02 (attention rollout del encoder visual de moondream2). CPU.
+"""Uso: python <script>.py  (35 px)  ·  python <script>.py _t70  (figuras de 70 px)
+Análisis de la corrida 02 (attention rollout del encoder visual de moondream2). CPU.
 
 Uso (desde pruebas/explicabilidad/): python analizar_rollout.py
 Lee conjunto_v2/ y resultados/02_rollout/; escribe resultados/02_rollout/analisis/.
 """
 import csv
 import json
+import sys
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
 AQUI = Path(__file__).resolve().parent
-CONJUNTO = AQUI / "conjunto_v2"
-RES = AQUI / "resultados" / "02_rollout"
+SUF = sys.argv[1] if len(sys.argv) > 1 else ""  # "" = figuras de 35 px (original); "_t70" = 70 px
+CONJUNTO = AQUI / ("conjunto_v2" if SUF == "" else f"conjunto{SUF}")
+RES = AQUI / "resultados" / f"02_rollout{SUF}"
 SALIDA = RES / "analisis"
 LADO = 27  # tokens por lado del recorte global (378 px / parche de 14 px)
 

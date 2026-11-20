@@ -1,4 +1,5 @@
-"""Análisis de la corrida 01 (oclusión + grounding de moondream2). CPU, sin modelo.
+"""Uso: python <script>.py  (35 px)  ·  python <script>.py _t70  (figuras de 70 px)
+Análisis de la corrida 01 (oclusión + grounding de moondream2). CPU, sin modelo.
 
 Uso (desde pruebas/explicabilidad/, después de correr preparar_conjunto.py):
     python analizar_conducta.py
@@ -9,6 +10,7 @@ Las reglas están en DISENO.md (secciones 5 y 6).
 import json
 import math
 import random
+import sys
 from pathlib import Path
 
 import numpy as np
@@ -17,8 +19,9 @@ import pandas as pd
 from explicabilidad_utils import clasificar_error
 
 AQUI = Path(__file__).resolve().parent
-CONJUNTO = AQUI / "conjunto_v2"
-RESULTADOS = AQUI / "resultados" / "01_conducta"
+SUF = sys.argv[1] if len(sys.argv) > 1 else ""  # "" = figuras de 35 px (original); "_t70" = 70 px
+CONJUNTO = AQUI / ("conjunto_v2" if SUF == "" else f"conjunto{SUF}")
+RESULTADOS = AQUI / "resultados" / f"01_conducta{SUF}"
 SALIDA = RESULTADOS / "analisis"
 SEMILLA = 2026
 POR_GRUPO = 5

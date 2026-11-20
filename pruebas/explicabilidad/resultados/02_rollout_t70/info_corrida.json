@@ -1,0 +1,12 @@
+{
+  "modelo": "vikhyatk/moondream2",
+  "revision": "2025-06-21",
+  "transformers": "4.46.3",
+  "torch": "2.14.1+cu130",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "verificacion_dif_max": 0.0,
+  "verificacion_coseno_min": 0.9999997019767761,
+  "n_imagenes": 22,
+  "vram_pico_mb": 5045
+}
